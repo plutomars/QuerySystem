@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/PoValueAddShare"
+   kind="dir"
+   committed-rev="1046"
+   last-author="epf"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2015-05-13T08:16:50.320377Z"/>
+<entry
+   kind="file"
+   checksum="32ec48f019dff4cac6930bd1cde10f3f"
+   committed-rev="1046"
+   last-author="epf"
+   name="PoValueAddShare01.java"
+   text-time="2015-05-13T08:00:36.375000Z"
+   committed-date="2015-05-13T08:16:50.320000Z"/>
+<entry
+   kind="file"
+   checksum="4694ef5d3d259aade48406309d477dc2"
+   committed-rev="1046"
+   last-author="epf"
+   name="PoValueAddShare02.java"
+   text-time="2015-05-13T08:08:35.500000Z"
+   committed-date="2015-05-13T08:16:50.320000Z"/>
+<entry
+   kind="file"
+   checksum="c4ebd76bb0740ce8aa850e47fc79e690"
+   committed-rev="993"
+   last-author="epf"
+   name="PoValueAddShare03.java"
+   text-time="2013-12-06T08:37:51.734000Z"
+   committed-date="2013-12-16T07:22:13.047000Z"/>
+<entry
+   kind="file"
+   checksum="feae81a6c41e32b3ae360bfc0276a63f"
+   committed-rev="987"
+   last-author="epf"
+   name="PoValueAddShareGroup01.java"
+   text-time="2013-12-04T02:09:19.198000Z"
+   committed-date="2013-12-04T02:09:19.198000Z"/>
+<entry
+   kind="file"
+   checksum="deec032f502b40adbda1ad79ab4d71c9"
+   committed-rev="987"
+   last-author="epf"
+   name="PoValueAddShareGroup02.java"
+   text-time="2013-12-04T02:09:19.198000Z"
+   committed-date="2013-12-04T02:09:19.198000Z"/>
+<entry
+   kind="file"
+   checksum="904fe44d540f8a7d03d4d63055f68272"
+   committed-rev="987"
+   last-author="epf"
+   name="PoValueAddShareGroup03.java"
+   text-time="2013-12-04T02:09:19.198000Z"
+   committed-date="2013-12-04T02:09:19.198000Z"/>
+<entry
+   kind="file"
+   checksum="58c017cbc3fe90b323d7e34e30fd40a9"
+   committed-rev="987"
+   last-author="epf"
+   name="PoValueAddShareQuery.java"
+   text-time="2013-12-04T02:09:19.198000Z"
+   committed-date="2013-12-04T02:09:19.198000Z"/>
+</wc-entries>

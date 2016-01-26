@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/PoBonus"
+   kind="dir"
+   committed-rev="858"
+   last-author="cora"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2012-04-19T09:16:17.807238Z"/>
+<entry
+   kind="file"
+   checksum="4d5ba6294819d0a950d5b89c7d95d1ab"
+   committed-rev="187"
+   last-author="yihua"
+   name="PoBonus.java"
+   text-time="2011-09-08T07:42:36.009000Z"
+   committed-date="2011-09-08T07:42:36.009161Z"/>
+<entry
+   kind="file"
+   checksum="8d7160f454031f68115d0bec70d8e837"
+   committed-rev="187"
+   last-author="yihua"
+   name="PoBonusList.java"
+   text-time="2011-09-08T07:42:36.009000Z"
+   committed-date="2011-09-08T07:42:36.009161Z"/>
+<entry
+   kind="file"
+   checksum="2ac5e3983e54f11a6598a4ba279b43c5"
+   committed-rev="187"
+   last-author="yihua"
+   name="PoBonusListGroup.java"
+   text-time="2011-09-08T07:42:36.009000Z"
+   committed-date="2011-09-08T07:42:36.009161Z"/>
+<entry
+   kind="file"
+   checksum="cac548a1bc6c4797dd682988b26fc7a6"
+   committed-rev="858"
+   last-author="cora"
+   name="PoBonusQuery.java"
+   text-time="2012-04-19T09:16:17.807000Z"
+   committed-date="2012-04-19T09:16:17.807238Z"/>
+</wc-entries>

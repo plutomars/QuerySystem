@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/ClaimAssoDetail"
+   kind="dir"
+   committed-rev="901"
+   last-author="cychu"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2012-07-06T09:44:35.778191Z"/>
+<entry
+   kind="file"
+   checksum="923817d751e6e0b244cf7716326bd045"
+   committed-rev="873"
+   last-author="cychu"
+   name="ClaimAssoDetail.java"
+   text-time="2012-04-24T07:52:12.004000Z"
+   committed-date="2012-04-24T07:52:12.004535Z"/>
+<entry
+   kind="file"
+   checksum="ee454551ac3f5776b947c14aee7ea04d"
+   committed-rev="873"
+   last-author="cychu"
+   name="ClaimAssoDetailGroup.java"
+   text-time="2012-04-24T07:52:12.004000Z"
+   committed-date="2012-04-24T07:52:12.004535Z"/>
+<entry
+   kind="file"
+   checksum="0f95003d8227ddbf2b2c058a3f391759"
+   committed-rev="901"
+   last-author="cychu"
+   name="ClaimAssoDetailQuery.java"
+   text-time="2012-07-06T09:44:35.778000Z"
+   committed-date="2012-07-06T09:44:35.778191Z"/>
+</wc-entries>

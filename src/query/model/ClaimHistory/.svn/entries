@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/ClaimHistory"
+   kind="dir"
+   committed-rev="982"
+   last-author="swei"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2013-07-29T02:51:46.454391Z"/>
+<entry
+   kind="file"
+   checksum="bdb7278acecc26a824dcc6d19e4b7aad"
+   committed-rev="891"
+   last-author="cora"
+   name="ClaimHistory01.java"
+   text-time="2012-06-26T08:53:28.860000Z"
+   committed-date="2012-06-26T08:53:28.860840Z"/>
+<entry
+   kind="file"
+   checksum="bb8f0ad5270e8afd8247ff289f01ccc2"
+   committed-rev="80"
+   last-author="fyyang"
+   name="ClaimHistory01Group.java"
+   text-time="2011-08-23T03:36:29.478000Z"
+   committed-date="2011-08-23T03:36:29.478124Z"/>
+<entry
+   kind="file"
+   checksum="7fa739d3feac94cd76f9fbc8addca1c6"
+   committed-rev="979"
+   last-author="swei"
+   name="ClaimHistory02.java"
+   text-time="2013-07-24T10:11:16.282000Z"
+   committed-date="2013-07-24T10:11:16.282255Z"/>
+<entry
+   kind="file"
+   checksum="d7e16a9f3967a9ca5c1b5c30d1ba97d1"
+   committed-rev="891"
+   last-author="cora"
+   name="ClaimHistory02event.java"
+   text-time="2012-06-26T08:53:28.860000Z"
+   committed-date="2012-06-26T08:53:28.860840Z"/>
+<entry
+   kind="file"
+   checksum="3f1bb86202f9f10133824a96603c3497"
+   committed-rev="886"
+   last-author="cora"
+   name="ClaimHistory02eventGroup.java"
+   text-time="2012-05-18T07:47:51.521000Z"
+   committed-date="2012-05-18T07:47:51.521207Z"/>
+<entry
+   kind="file"
+   checksum="72980d7b01109be24c5e4a3ffd6f7c3a"
+   committed-rev="80"
+   last-author="fyyang"
+   name="ClaimHistory03.java"
+   text-time="2011-08-23T03:36:29.478000Z"
+   committed-date="2011-08-23T03:36:29.478124Z"/>
+<entry
+   kind="file"
+   checksum="0ad361b2051ed7dc0e71cb1ef31bda8c"
+   committed-rev="80"
+   last-author="fyyang"
+   name="ClaimHistory03Group.java"
+   text-time="2011-08-23T03:36:29.478000Z"
+   committed-date="2011-08-23T03:36:29.478124Z"/>
+<entry
+   kind="file"
+   checksum="26412e1a61f4fec82cf3f6ff00d22a46"
+   committed-rev="80"
+   last-author="fyyang"
+   name="ClaimHistory04.java"
+   text-time="2011-08-23T03:36:29.478000Z"
+   committed-date="2011-08-23T03:36:29.478124Z"/>
+<entry
+   kind="file"
+   checksum="f5b47fda09f704483324f20181e006fb"
+   committed-rev="80"
+   last-author="fyyang"
+   name="ClaimHistory04Group.java"
+   text-time="2011-08-23T03:36:29.478000Z"
+   committed-date="2011-08-23T03:36:29.478124Z"/>
+<entry
+   kind="file"
+   checksum="fa7f8df46c9cf034b7e430630d645819"
+   committed-rev="978"
+   last-author="swei"
+   name="ClaimHistory05.java"
+   text-time="2013-07-24T10:11:07.860000Z"
+   committed-date="2013-07-24T10:11:07.860165Z"/>
+<entry
+   kind="file"
+   checksum="572a4eb90b6b130d970f73301984d93e"
+   committed-rev="86"
+   last-author="fyyang"
+   name="ClaimHistory05Group.java"
+   text-time="2011-08-23T06:19:32.947000Z"
+   committed-date="2011-08-23T06:19:32.947532Z"/>
+<entry
+   kind="file"
+   checksum="2568819340cb00ec4ffe120131439bff"
+   committed-rev="80"
+   last-author="fyyang"
+   name="ClaimHistory06.java"
+   text-time="2011-08-23T03:36:29.478000Z"
+   committed-date="2011-08-23T03:36:29.478124Z"/>
+<entry
+   kind="file"
+   checksum="9931f21fac921a7da86f0bbcf86189ff"
+   committed-rev="80"
+   last-author="fyyang"
+   name="ClaimHistory06Group.java"
+   text-time="2011-08-23T03:36:29.478000Z"
+   committed-date="2011-08-23T03:36:29.478124Z"/>
+<entry
+   kind="file"
+   checksum="cd8eef1d9dae6bfd116952055d25a598"
+   committed-rev="891"
+   last-author="cora"
+   name="ClaimHistory07.java"
+   text-time="2012-06-26T08:53:28.860000Z"
+   committed-date="2012-06-26T08:53:28.860840Z"/>
+<entry
+   kind="file"
+   checksum="99a63c7c77a5514a477df10e664001d1"
+   committed-rev="231"
+   last-author="fyyang"
+   name="ClaimHistory07Group.java"
+   text-time="2011-09-28T08:34:52.615000Z"
+   committed-date="2011-09-28T08:34:52.615228Z"/>
+<entry
+   kind="file"
+   checksum="a6bc8545e7e83f3069c977a4b8a0fa38"
+   committed-rev="971"
+   last-author="swei"
+   name="ClaimHistory08.java"
+   text-time="2013-07-16T11:57:22.961000Z"
+   committed-date="2013-07-16T11:57:22.961802Z"/>
+<entry
+   kind="file"
+   checksum="00495dbb772bff0f14a356573b71791c"
+   committed-rev="231"
+   last-author="fyyang"
+   name="ClaimHistory08Group.java"
+   text-time="2011-09-28T08:34:52.615000Z"
+   committed-date="2011-09-28T08:34:52.615228Z"/>
+<entry
+   kind="file"
+   checksum="e81df46108be571d4fb73fa6abbddc0b"
+   committed-rev="734"
+   last-author="cora"
+   name="ClaimHistory09.java"
+   text-time="2011-12-12T09:19:26.105000Z"
+   committed-date="2011-12-12T09:19:26.105463Z"/>
+<entry
+   kind="file"
+   checksum="5ae7eec5bcbe2e3de3c6e534d52b212e"
+   committed-rev="231"
+   last-author="fyyang"
+   name="ClaimHistory09Group.java"
+   text-time="2011-09-28T08:34:52.615000Z"
+   committed-date="2011-09-28T08:34:52.615228Z"/>
+<entry
+   kind="file"
+   checksum="0f9e5e0a37f0a3d6c5ad819d34ffee93"
+   committed-rev="231"
+   last-author="fyyang"
+   name="ClaimHistory10.java"
+   text-time="2011-09-28T08:34:52.615000Z"
+   committed-date="2011-09-28T08:34:52.615228Z"/>
+<entry
+   kind="file"
+   checksum="37949cbc0b77b6619affb49485fbcee4"
+   committed-rev="231"
+   last-author="fyyang"
+   name="ClaimHistory10Group.java"
+   text-time="2011-09-28T08:34:52.615000Z"
+   committed-date="2011-09-28T08:34:52.615228Z"/>
+<entry
+   kind="file"
+   checksum="2bb850023e9ab336886ae6b15288456f"
+   committed-rev="850"
+   last-author="jnd115"
+   name="ClaimHistory11.java"
+   text-time="2012-04-18T03:22:17.951000Z"
+   committed-date="2012-04-18T03:22:17.951197Z"/>
+<entry
+   kind="file"
+   checksum="8ac2fabffc90ce1c41d28306e436f58e"
+   committed-rev="961"
+   last-author="swei"
+   name="ClaimHistory12.java"
+   text-time="2013-07-04T06:46:18.555000Z"
+   committed-date="2013-07-04T06:46:18.555296Z"/>
+<entry
+   kind="file"
+   checksum="0e1019b355dd5e73dc7e0ec41e0abf6f"
+   committed-rev="954"
+   last-author="swei"
+   name="ClaimHistory12Group.java"
+   text-time="2013-06-20T08:57:12.504000Z"
+   committed-date="2013-06-20T08:57:12.504078Z"/>
+<entry
+   kind="file"
+   checksum="3f9d85d03c042bcc5813028582640a13"
+   committed-rev="982"
+   last-author="swei"
+   name="ClaimHistoryQuery.java"
+   text-time="2013-07-29T02:51:46.454000Z"
+   committed-date="2013-07-29T02:51:46.454391Z"/>
+</wc-entries>

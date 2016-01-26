@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/InvestAuto"
+   kind="dir"
+   committed-rev="687"
+   last-author="jnd115"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2011-11-29T01:26:49.011149Z"/>
+<entry
+   kind="file"
+   checksum="bcb501fada329227063ad663916bb82e"
+   committed-rev="687"
+   last-author="jnd115"
+   name="InvestAuto01.java"
+   text-time="2011-11-29T01:26:49.011000Z"
+   committed-date="2011-11-29T01:26:49.011149Z"/>
+<entry
+   kind="file"
+   checksum="7de04a662a6318d65d91cd9acddaaeb3"
+   committed-rev="687"
+   last-author="jnd115"
+   name="InvestAuto01Group.java"
+   text-time="2011-11-29T01:26:49.011000Z"
+   committed-date="2011-11-29T01:26:49.011149Z"/>
+<entry
+   kind="file"
+   checksum="b3b0378e0a25afd56e38242fd3045849"
+   committed-rev="687"
+   last-author="jnd115"
+   name="InvestAuto02.java"
+   text-time="2011-11-29T01:26:49.011000Z"
+   committed-date="2011-11-29T01:26:49.011149Z"/>
+<entry
+   kind="file"
+   checksum="76e22a659df60efe044317915502f762"
+   committed-rev="687"
+   last-author="jnd115"
+   name="InvestAuto02Group.java"
+   text-time="2011-11-29T01:26:49.011000Z"
+   committed-date="2011-11-29T01:26:49.011149Z"/>
+<entry
+   kind="file"
+   checksum="e2688fc0308737c254705fd7c650faba"
+   committed-rev="687"
+   last-author="jnd115"
+   name="InvestAuto03.java"
+   text-time="2011-11-29T01:26:49.011000Z"
+   committed-date="2011-11-29T01:26:49.011149Z"/>
+<entry
+   kind="file"
+   checksum="78f3556025acb9641902ca33f0e5bf9a"
+   committed-rev="687"
+   last-author="jnd115"
+   name="InvestAuto03Group.java"
+   text-time="2011-11-29T01:26:49.011000Z"
+   committed-date="2011-11-29T01:26:49.011149Z"/>
+<entry
+   kind="file"
+   checksum="675df3310972683095a72a122dd1e530"
+   committed-rev="687"
+   last-author="jnd115"
+   name="InvestAutoQuery.java"
+   text-time="2011-11-29T01:26:49.011000Z"
+   committed-date="2011-11-29T01:26:49.011149Z"/>
+</wc-entries>

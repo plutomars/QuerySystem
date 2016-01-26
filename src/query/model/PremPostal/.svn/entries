@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/PremPostal"
+   kind="dir"
+   committed-rev="944"
+   last-author="cora"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2012-12-10T09:52:38.852887Z"/>
+<entry
+   kind="file"
+   checksum="074a9b7fa5c60b02299a9a5a24906333"
+   committed-rev="944"
+   last-author="cora"
+   name="PremPostal01.java"
+   text-time="2012-12-10T09:52:38.852000Z"
+   committed-date="2012-12-10T09:52:38.852887Z"/>
+<entry
+   kind="file"
+   checksum="611297386eb2e8dba55f512ae3c13e1b"
+   committed-rev="944"
+   last-author="cora"
+   name="PremPostal02.java"
+   text-time="2012-12-10T09:52:38.852000Z"
+   committed-date="2012-12-10T09:52:38.852887Z"/>
+<entry
+   kind="file"
+   checksum="4ae2cd9859b108cc374fadf3fb0ff457"
+   committed-rev="944"
+   last-author="cora"
+   name="PremPostal02Group.java"
+   text-time="2012-12-10T09:52:38.852000Z"
+   committed-date="2012-12-10T09:52:38.852887Z"/>
+<entry
+   kind="file"
+   checksum="4daeb921280f90ef81e2fd08a18319b2"
+   committed-rev="944"
+   last-author="cora"
+   name="PremPostal03.java"
+   text-time="2012-12-10T09:52:38.852000Z"
+   committed-date="2012-12-10T09:52:38.852887Z"/>
+<entry
+   kind="file"
+   checksum="64a14c91f968b8d9cc7ac87357fbb2a5"
+   committed-rev="944"
+   last-author="cora"
+   name="PremPostal03Group.java"
+   text-time="2012-12-10T09:52:38.852000Z"
+   committed-date="2012-12-10T09:52:38.852887Z"/>
+<entry
+   kind="file"
+   checksum="f4c99bf65a560d30e2b22a7e93ed2170"
+   committed-rev="944"
+   last-author="cora"
+   name="PremPostalQuery.java"
+   text-time="2012-12-10T09:52:38.852000Z"
+   committed-date="2012-12-10T09:52:38.852887Z"/>
+</wc-entries>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/InvestGoal"
+   kind="dir"
+   committed-rev="1010"
+   last-author="epf"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2014-09-18T03:55:40.471047Z"/>
+<entry
+   kind="file"
+   checksum="90e244c760c38e814c2d2621d7e0c6b4"
+   committed-rev="956"
+   last-author="jnd115"
+   name="InvestGoal01.java"
+   text-time="2013-06-27T03:24:14.079000Z"
+   committed-date="2013-06-27T03:24:14.079228Z"/>
+<entry
+   kind="file"
+   checksum="09ad77eea9f53846379395e551c67d97"
+   committed-rev="1010"
+   last-author="epf"
+   name="InvestGoal02.java"
+   text-time="2014-09-12T06:01:26.890000Z"
+   committed-date="2014-09-18T03:55:40.471000Z"/>
+<entry
+   kind="file"
+   checksum="12d7ab545464ac3a5ad835b6ab9beed1"
+   committed-rev="191"
+   last-author="yihua"
+   name="InvestGoal02Group.java"
+   text-time="2011-09-08T07:57:16.336000Z"
+   committed-date="2011-09-08T07:57:16.336454Z"/>
+<entry
+   kind="file"
+   checksum="548c19173af62900df3d9911a12f8133"
+   committed-rev="356"
+   last-author="cora"
+   name="InvestGoal03.java"
+   text-time="2011-10-17T11:59:06.386000Z"
+   committed-date="2011-10-17T11:59:06.386876Z"/>
+<entry
+   kind="file"
+   checksum="b228d0c84772530234faa812e1314d6a"
+   committed-rev="191"
+   last-author="yihua"
+   name="InvestGoal04.java"
+   text-time="2011-09-08T07:57:16.336000Z"
+   committed-date="2011-09-08T07:57:16.336454Z"/>
+<entry
+   kind="file"
+   checksum="32a92d2beebbf94b5b02dee5c1e687ef"
+   committed-rev="191"
+   last-author="yihua"
+   name="InvestGoal04Group.java"
+   text-time="2011-09-08T07:57:16.336000Z"
+   committed-date="2011-09-08T07:57:16.336454Z"/>
+<entry
+   kind="file"
+   checksum="ebe3d9f909d84da306e64e8033c88960"
+   committed-rev="245"
+   last-author="cora"
+   name="InvestGoalInt.java"
+   text-time="2011-10-03T11:33:33.110000Z"
+   committed-date="2011-10-03T11:33:33.110128Z"/>
+<entry
+   kind="file"
+   checksum="700006b83cde2fcc0c32c405f3c0f037"
+   committed-rev="245"
+   last-author="cora"
+   name="InvestGoalIntGroup.java"
+   text-time="2011-10-03T11:33:33.110000Z"
+   committed-date="2011-10-03T11:33:33.110128Z"/>
+<entry
+   kind="file"
+   checksum="caeff0f1f8a524bc4550cf73402f23d9"
+   committed-rev="251"
+   last-author="cora"
+   name="InvestGoalQuery.java"
+   text-time="2011-10-05T03:15:43.564000Z"
+   committed-date="2011-10-05T03:15:43.564845Z"/>
+</wc-entries>

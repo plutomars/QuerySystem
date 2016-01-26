@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/PosChange"
+   kind="dir"
+   committed-rev="1027"
+   last-author="epf"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2015-01-28T09:51:42.180852Z"/>
+<entry
+   kind="file"
+   checksum="d38bed0ef55c873fa453532f7d317a4b"
+   committed-rev="1019"
+   last-author="epf"
+   name="PosChange01.java"
+   text-time="2015-01-22T02:04:26.343000Z"
+   committed-date="2015-01-23T02:57:20.253000Z"/>
+<entry
+   kind="file"
+   checksum="03d935dacd602486d901b729bcc7e218"
+   committed-rev="66"
+   last-author="epf"
+   name="PosChange02.java"
+   text-time="2011-08-19T07:45:17.547000Z"
+   committed-date="2011-08-19T07:45:17.547014Z"/>
+<entry
+   kind="file"
+   checksum="8990019613525d8c578a8dbf2f2a80f0"
+   committed-rev="332"
+   last-author="cora"
+   name="PosChange03.java"
+   text-time="2011-10-15T11:02:23.699000Z"
+   committed-date="2011-10-15T11:02:23.699293Z"/>
+<entry
+   kind="file"
+   checksum="df87b348d5ddd9da0e4b72ddd849e820"
+   committed-rev="483"
+   last-author="epf"
+   name="PosChange04.java"
+   text-time="2011-10-28T06:37:26.678000Z"
+   committed-date="2011-10-28T06:37:26.678822Z"/>
+<entry
+   kind="file"
+   checksum="28c3b535dfa3a2a514c1f83a9fd9239d"
+   committed-rev="1019"
+   last-author="epf"
+   name="PosChange05.java"
+   text-time="2015-01-22T07:41:53.562000Z"
+   committed-date="2015-01-23T02:57:20.253000Z"/>
+<entry
+   kind="file"
+   checksum="c1badab049cee3b9fb4769746a28b119"
+   committed-rev="66"
+   last-author="epf"
+   name="PosChangeGroup01.java"
+   text-time="2011-08-19T07:45:17.547000Z"
+   committed-date="2011-08-19T07:45:17.547014Z"/>
+<entry
+   kind="file"
+   checksum="bbd024395a308b4af8f12565b7d3bc21"
+   committed-rev="66"
+   last-author="epf"
+   name="PosChangeGroup02.java"
+   text-time="2011-08-19T07:45:17.547000Z"
+   committed-date="2011-08-19T07:45:17.547014Z"/>
+<entry
+   kind="file"
+   checksum="9f16d0b59b1b1cf72d67a30b95433873"
+   committed-rev="66"
+   last-author="epf"
+   name="PosChangeGroup03.java"
+   text-time="2011-08-19T07:45:17.547000Z"
+   committed-date="2011-08-19T07:45:17.547014Z"/>
+<entry
+   kind="file"
+   checksum="a1cce8004327650971f4c1d8c429b70f"
+   committed-rev="66"
+   last-author="epf"
+   name="PosChangeGroup04.java"
+   text-time="2011-08-19T07:45:17.547000Z"
+   committed-date="2011-08-19T07:45:17.547014Z"/>
+<entry
+   kind="file"
+   checksum="a7e243a0e29f5fe87d86ba32d11f332a"
+   committed-rev="1019"
+   last-author="epf"
+   name="PosChangeGroup05.java"
+   text-time="2015-01-22T07:51:55.921000Z"
+   committed-date="2015-01-23T02:57:20.253000Z"/>
+<entry
+   kind="file"
+   checksum="8f992d397cd48b4dbfb5260fabb50686"
+   committed-rev="862"
+   last-author="swei"
+   name="PosChangeQuery01.java"
+   text-time="2012-04-20T01:45:03.601000Z"
+   committed-date="2012-04-20T01:45:03.601188Z"/>
+<entry
+   kind="file"
+   checksum="420a855583bf6affbbfbd676eb91d65a"
+   committed-rev="483"
+   last-author="epf"
+   name="PosChangeQuery02.java"
+   text-time="2011-10-28T06:37:26.678000Z"
+   committed-date="2011-10-28T06:37:26.678822Z"/>
+<entry
+   kind="file"
+   checksum="eb1bf27bed1925c821cd0f07f5d935f3"
+   committed-rev="483"
+   last-author="epf"
+   name="PosChangeQuery03.java"
+   text-time="2011-10-28T06:37:26.678000Z"
+   committed-date="2011-10-28T06:37:26.678822Z"/>
+<entry
+   kind="file"
+   checksum="5ec3048673053df2de4352c13b0f6896"
+   committed-rev="483"
+   last-author="epf"
+   name="PosChangeQuery04.java"
+   text-time="2011-10-28T06:37:26.678000Z"
+   committed-date="2011-10-28T06:37:26.678822Z"/>
+<entry
+   kind="file"
+   checksum="142962f53a4f29f4dc621534c3e8a817"
+   committed-rev="1027"
+   last-author="epf"
+   name="PosChangeQuery05.java"
+   text-time="2015-01-28T09:49:32.625000Z"
+   committed-date="2015-01-28T09:51:42.180000Z"/>
+</wc-entries>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/PremReject"
+   kind="dir"
+   committed-rev="785"
+   last-author="cychu"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2012-03-27T09:51:59.172355Z"/>
+<entry
+   kind="file"
+   checksum="8472c029b32680fb4eb64fb999ed4763"
+   committed-rev="785"
+   last-author="cychu"
+   name="PremReject.java"
+   text-time="2012-03-27T09:51:59.172000Z"
+   committed-date="2012-03-27T09:51:59.172355Z"/>
+<entry
+   kind="file"
+   checksum="23c50acdaea7802717b068151231afb5"
+   committed-rev="785"
+   last-author="cychu"
+   name="PremReject01.java"
+   text-time="2012-03-27T09:51:59.172000Z"
+   committed-date="2012-03-27T09:51:59.172355Z"/>
+<entry
+   kind="file"
+   checksum="f2278301e4dedb3a5715863444690e54"
+   committed-rev="785"
+   last-author="cychu"
+   name="PremReject01Group.java"
+   text-time="2012-03-27T09:51:59.172000Z"
+   committed-date="2012-03-27T09:51:59.172355Z"/>
+<entry
+   kind="file"
+   checksum="06ebff2e3acb1153c0c264c2cef78ca1"
+   committed-rev="785"
+   last-author="cychu"
+   name="PremRejectGroup.java"
+   text-time="2012-03-27T09:51:59.172000Z"
+   committed-date="2012-03-27T09:51:59.172355Z"/>
+<entry
+   kind="file"
+   checksum="2873fa8d11d6be2429e62751fe62df83"
+   committed-rev="785"
+   last-author="cychu"
+   name="PremRejectQuery.java"
+   text-time="2012-03-27T09:51:59.172000Z"
+   committed-date="2012-03-27T09:51:59.172355Z"/>
+<entry
+   kind="file"
+   checksum="e18275816f23e8dce83c223ddac0215f"
+   committed-rev="785"
+   last-author="cychu"
+   name="PremRejectQuery01.java"
+   text-time="2012-03-27T09:51:59.172000Z"
+   committed-date="2012-03-27T09:51:59.172355Z"/>
+</wc-entries>

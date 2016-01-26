@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="beansbinding-1.2.1.jar"/>
+	<classpathentry kind="lib" path="ifxjdbc.jar"/>
+	<classpathentry kind="lib" path="ifxjdbcx.jar"/>
+	<classpathentry kind="lib" path="ifxlang.jar"/>
+	<classpathentry kind="lib" path="ifxlsupp.jar"/>
+	<classpathentry kind="lib" path="ifxsqlj.jar"/>
+	<classpathentry kind="lib" path="ifxtools.jar"/>
+	<classpathentry kind="lib" path="jna.jar"/>
+	<classpathentry kind="lib" path="sqlitejdbc-v056.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="mlisupp.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

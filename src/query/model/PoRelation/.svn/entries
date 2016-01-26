@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/PoRelation"
+   kind="dir"
+   committed-rev="1056"
+   last-author="epf"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2015-07-13T08:21:56.296625Z"/>
+<entry
+   kind="file"
+   checksum="307eafa087a02f9d05d9ab4a236c9d34"
+   committed-rev="1056"
+   last-author="epf"
+   name="PoRelation.java"
+   text-time="2015-07-13T08:22:41.171000Z"
+   committed-date="2015-07-13T08:21:56.296000Z"/>
+<entry
+   kind="file"
+   checksum="11e0c53a2a699a6db661bedc414b8ec5"
+   committed-rev="1009"
+   last-author="epf"
+   name="PoRelationAG.java"
+   text-time="2014-08-19T09:01:01.109000Z"
+   committed-date="2014-09-09T03:42:46.550000Z"/>
+<entry
+   kind="file"
+   checksum="a44fb0c3932a07cf5cdb79e59ed3442a"
+   committed-rev="9"
+   last-author="fyyang"
+   name="PoRelationAGGroup.java"
+   text-time="2011-08-16T01:09:26.414000Z"
+   committed-date="2011-08-16T01:09:26.414206Z"/>
+<entry
+   kind="file"
+   checksum="62aec99f5b53142a41deeca4c003a7af"
+   committed-rev="9"
+   last-author="fyyang"
+   name="PoRelationGroup.java"
+   text-time="2011-08-16T01:09:26.414000Z"
+   committed-date="2011-08-16T01:09:26.414206Z"/>
+<entry
+   kind="file"
+   checksum="1cf44a9d01d1ecd3f54d418a6014f634"
+   committed-rev="781"
+   last-author="fyyang"
+   name="PoRelationPA.java"
+   text-time="2012-03-20T09:24:23.303000Z"
+   committed-date="2012-03-20T09:24:23.303754Z"/>
+<entry
+   kind="file"
+   checksum="2b53f199518eab1b31d7435f49cdab89"
+   committed-rev="781"
+   last-author="fyyang"
+   name="PoRelationPAGroup.java"
+   text-time="2012-03-20T09:24:23.303000Z"
+   committed-date="2012-03-20T09:24:23.303754Z"/>
+<entry
+   kind="file"
+   checksum="6dfa5d39b2ff8167b325921d7bbc5d26"
+   committed-rev="781"
+   last-author="fyyang"
+   name="PoRelationQuery.java"
+   text-time="2012-03-20T09:24:23.303000Z"
+   committed-date="2012-03-20T09:24:23.303754Z"/>
+</wc-entries>

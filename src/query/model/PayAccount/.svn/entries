@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/PayAccount"
+   kind="dir"
+   committed-rev="846"
+   last-author="cora"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2012-04-17T06:37:53.297798Z"/>
+<entry
+   kind="file"
+   checksum="ec40174770e7dc0b316afd1a647fc054"
+   committed-rev="846"
+   last-author="cora"
+   name="PayAccount01.java"
+   text-time="2012-04-17T06:37:53.297000Z"
+   committed-date="2012-04-17T06:37:53.297798Z"/>
+<entry
+   kind="file"
+   checksum="2246b6235731940d948dbcba3009bc6d"
+   committed-rev="754"
+   last-author="cora"
+   name="PayAccount01Group.java"
+   text-time="2012-01-09T05:57:42.402000Z"
+   committed-date="2012-01-09T05:57:42.402304Z"/>
+<entry
+   kind="file"
+   checksum="d2e3b866b6e9ce10cd54cbe6a7d422df"
+   committed-rev="754"
+   last-author="cora"
+   name="PayAccount02.java"
+   text-time="2012-01-09T05:57:42.402000Z"
+   committed-date="2012-01-09T05:57:42.402304Z"/>
+<entry
+   kind="file"
+   checksum="1b8654ad79b380e50ff3b85c262fb295"
+   committed-rev="754"
+   last-author="cora"
+   name="PayAccount02Group.java"
+   text-time="2012-01-09T05:57:42.402000Z"
+   committed-date="2012-01-09T05:57:42.402304Z"/>
+<entry
+   kind="file"
+   checksum="ad7114cc36f9491ccc1220a963a1aa80"
+   committed-rev="754"
+   last-author="cora"
+   name="PayAccountQuery.java"
+   text-time="2012-01-09T05:57:42.402000Z"
+   committed-date="2012-01-09T05:57:42.402304Z"/>
+</wc-entries>

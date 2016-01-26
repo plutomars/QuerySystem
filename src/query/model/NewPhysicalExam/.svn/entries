@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/NewPhysicalExam"
+   kind="dir"
+   committed-rev="576"
+   last-author="cora"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2011-11-14T02:30:34.743238Z"/>
+<entry
+   kind="file"
+   checksum="ce2359b2fe51008defe8159647e7a710"
+   committed-rev="576"
+   last-author="cora"
+   name="NewPhysicalExam.java"
+   text-time="2011-11-14T02:30:34.743000Z"
+   committed-date="2011-11-14T02:30:34.743238Z"/>
+<entry
+   kind="file"
+   checksum="46cd162d2399feae86a6fb99cfb5c6ca"
+   committed-rev="576"
+   last-author="cora"
+   name="NewPhysicalExamGroup.java"
+   text-time="2011-11-14T02:30:34.743000Z"
+   committed-date="2011-11-14T02:30:34.743238Z"/>
+<entry
+   kind="file"
+   checksum="e864b1a515b183e0849d85df70e59a84"
+   committed-rev="576"
+   last-author="cora"
+   name="NewPhysicalExamQuery.java"
+   text-time="2011-11-14T02:30:34.743000Z"
+   committed-date="2011-11-14T02:30:34.743238Z"/>
+</wc-entries>

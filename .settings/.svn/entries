@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/.settings"
+   kind="dir"
+   committed-rev="9"
+   last-author="fyyang"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2011-08-16T01:09:26.414206Z"/>
+<entry
+   kind="file"
+   checksum="2936093a238a74e1b59ff27de354537b"
+   committed-rev="9"
+   last-author="fyyang"
+   name="org.eclipse.jdt.core.prefs"
+   text-time="2011-08-16T01:09:26.414000Z"
+   committed-date="2011-08-16T01:09:26.414206Z"/>
+</wc-entries>

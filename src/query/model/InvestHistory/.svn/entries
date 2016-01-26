@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/InvestHistory"
+   kind="dir"
+   committed-rev="1017"
+   last-author="epf"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2014-11-21T08:21:51.047789Z"/>
+<entry
+   kind="file"
+   checksum="63e7e72d0a278a489cea918e0cc5085a"
+   committed-rev="843"
+   last-author="swei"
+   name="InvestHistory01.java"
+   text-time="2012-04-16T09:02:29.863000Z"
+   committed-date="2012-04-16T09:02:29.863847Z"/>
+<entry
+   kind="file"
+   checksum="1c488c6a242254a4d8965b28803d0d74"
+   committed-rev="998"
+   last-author="epf"
+   name="InvestHistory02.java"
+   text-time="2014-03-10T03:10:15.156000Z"
+   committed-date="2014-03-10T03:19:13.723000Z"/>
+<entry
+   kind="file"
+   checksum="428eb9299b9eef5e4ddb099667388077"
+   committed-rev="1001"
+   last-author="epf"
+   name="InvestHistory03.java"
+   text-time="2014-03-26T01:53:27.531000Z"
+   committed-date="2014-03-26T01:58:11.018000Z"/>
+<entry
+   kind="file"
+   checksum="e2a464aa9a3e51b4b96c1e6761df874d"
+   committed-rev="1010"
+   last-author="epf"
+   name="InvestHistory04.java"
+   text-time="2014-09-10T07:50:18.640000Z"
+   committed-date="2014-09-18T03:55:40.471000Z"/>
+<entry
+   kind="file"
+   checksum="d57817b6a40a14f04a8e8c510a254b4f"
+   committed-rev="1017"
+   last-author="epf"
+   name="InvestHistory05.java"
+   text-time="2014-11-13T09:24:02.296000Z"
+   committed-date="2014-11-21T08:21:51.047000Z"/>
+<entry
+   kind="file"
+   checksum="3b05ecdbff85c98c275ce23685381933"
+   committed-rev="26"
+   last-author="epf"
+   name="InvestHistoryGroup01.java"
+   text-time="2011-08-17T01:35:53.662000Z"
+   committed-date="2011-08-17T01:35:53.662764Z"/>
+<entry
+   kind="file"
+   checksum="69c13a253dabb338c02e57b8391d2c61"
+   committed-rev="26"
+   last-author="epf"
+   name="InvestHistoryGroup02.java"
+   text-time="2011-08-17T01:35:53.662000Z"
+   committed-date="2011-08-17T01:35:53.662764Z"/>
+<entry
+   kind="file"
+   checksum="416465a9a7b4c2c904daf51ba2436628"
+   committed-rev="1001"
+   last-author="epf"
+   name="InvestHistoryGroup03.java"
+   text-time="2014-03-25T07:40:17.140000Z"
+   committed-date="2014-03-26T01:58:11.018000Z"/>
+<entry
+   kind="file"
+   checksum="fff08adb97fee22af1daabbc9c8ed604"
+   committed-rev="1010"
+   last-author="epf"
+   name="InvestHistoryGroup04.java"
+   text-time="2014-09-10T09:40:54.859000Z"
+   committed-date="2014-09-18T03:55:40.471000Z"/>
+<entry
+   kind="file"
+   checksum="f6c9871dd1ed34a91afa77e70e67a78a"
+   committed-rev="1017"
+   last-author="epf"
+   name="InvestHistoryGroup05.java"
+   text-time="2014-11-13T06:28:01.968000Z"
+   committed-date="2014-11-21T08:21:51.047000Z"/>
+<entry
+   kind="file"
+   checksum="27f9caeb61064f11ce2eee6775b5d313"
+   committed-rev="26"
+   last-author="epf"
+   name="InvestHistoryQuery01.java"
+   text-time="2011-08-17T01:35:53.662000Z"
+   committed-date="2011-08-17T01:35:53.662764Z"/>
+<entry
+   kind="file"
+   checksum="118f31df40cb65775ac26320a5744cc7"
+   committed-rev="844"
+   last-author="swei"
+   name="InvestHistoryQuery02.java"
+   text-time="2012-04-16T09:03:05.692000Z"
+   committed-date="2012-04-16T09:03:05.692660Z"/>
+<entry
+   kind="file"
+   checksum="67a7d7c5e378391f043986b76a33ad8a"
+   committed-rev="1001"
+   last-author="epf"
+   name="InvestHistoryQuery03.java"
+   text-time="2014-03-25T07:42:18.203000Z"
+   committed-date="2014-03-26T01:58:11.018000Z"/>
+<entry
+   kind="file"
+   checksum="e9fe8a424ed393391a2737be44cdc485"
+   committed-rev="1010"
+   last-author="epf"
+   name="InvestHistoryQuery04.java"
+   text-time="2014-09-10T07:55:24.828000Z"
+   committed-date="2014-09-18T03:55:40.471000Z"/>
+<entry
+   kind="file"
+   checksum="178b439b789dd7fa558c04f6d5a16bc9"
+   committed-rev="1017"
+   last-author="epf"
+   name="InvestHistoryQuery05.java"
+   text-time="2014-11-13T06:55:09.375000Z"
+   committed-date="2014-11-21T08:21:51.047000Z"/>
+</wc-entries>

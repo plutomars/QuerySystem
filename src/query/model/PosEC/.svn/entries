@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/PosEC"
+   kind="dir"
+   committed-rev="905"
+   last-author="cora"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2012-07-16T02:37:12.739796Z"/>
+<entry
+   kind="file"
+   checksum="7c289ad9731eed70f00c8eec3b782b60"
+   committed-rev="905"
+   last-author="cora"
+   name="PosECQuery.java"
+   text-time="2012-07-16T02:37:12.739000Z"
+   committed-date="2012-07-16T02:37:12.739796Z"/>
+<entry
+   kind="file"
+   checksum="f9b11f089ac43aaa8b33b2d94eb7f04a"
+   committed-rev="905"
+   last-author="cora"
+   name="PosECeclp.java"
+   text-time="2012-07-16T02:37:12.739000Z"
+   committed-date="2012-07-16T02:37:12.739796Z"/>
+<entry
+   kind="file"
+   checksum="a1230a43200c6e8aa8e9ba0a96aa9be0"
+   committed-rev="905"
+   last-author="cora"
+   name="PosECeclpGroup.java"
+   text-time="2012-07-16T02:37:12.739000Z"
+   committed-date="2012-07-16T02:37:12.739796Z"/>
+<entry
+   kind="file"
+   checksum="8c4e5919c836f00023785cf3c177843d"
+   committed-rev="905"
+   last-author="cora"
+   name="PosECectr.java"
+   text-time="2012-07-16T02:37:12.739000Z"
+   committed-date="2012-07-16T02:37:12.739796Z"/>
+<entry
+   kind="file"
+   checksum="2d4c05fdd04ad7b967cdf5b263eea480"
+   committed-rev="905"
+   last-author="cora"
+   name="PosECectrGroup.java"
+   text-time="2012-07-16T02:37:12.739000Z"
+   committed-date="2012-07-16T02:37:12.739796Z"/>
+</wc-entries>

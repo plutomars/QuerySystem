@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/PayQuery"
+   kind="dir"
+   committed-rev="869"
+   last-author="cora"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2012-04-20T07:20:02.863261Z"/>
+<entry
+   kind="file"
+   checksum="c6575f4860006e77119637246587b903"
+   committed-rev="825"
+   last-author="swei"
+   name="PayQuery01.java"
+   text-time="2012-04-06T09:18:16.216000Z"
+   committed-date="2012-04-06T09:18:16.216019Z"/>
+<entry
+   kind="file"
+   checksum="df0e46a4c0b51bd0bb98d8d4dc122d53"
+   committed-rev="733"
+   last-author="cora"
+   name="PayQuery01Group.java"
+   text-time="2011-12-12T02:29:45.301000Z"
+   committed-date="2011-12-12T02:29:45.301876Z"/>
+<entry
+   kind="file"
+   checksum="8ce93c68e5f5165b1a67a020e0f3ed9e"
+   committed-rev="869"
+   last-author="cora"
+   name="PayQuery01Query.java"
+   text-time="2012-04-20T07:20:02.863000Z"
+   committed-date="2012-04-20T07:20:02.863261Z"/>
+<entry
+   kind="file"
+   checksum="5819b15117cd562ff076437a07690445"
+   committed-rev="733"
+   last-author="cora"
+   name="PayQuery02.java"
+   text-time="2011-12-12T02:29:45.301000Z"
+   committed-date="2011-12-12T02:29:45.301876Z"/>
+<entry
+   kind="file"
+   checksum="042c916f92c961de9e4893ffa14623ef"
+   committed-rev="733"
+   last-author="cora"
+   name="PayQuery02Group.java"
+   text-time="2011-12-12T02:29:45.301000Z"
+   committed-date="2011-12-12T02:29:45.301876Z"/>
+<entry
+   kind="file"
+   checksum="38d4dccba44a2958bfb6ddd418a55a88"
+   committed-rev="733"
+   last-author="cora"
+   name="PayQuery03.java"
+   text-time="2011-12-12T02:29:45.301000Z"
+   committed-date="2011-12-12T02:29:45.301876Z"/>
+<entry
+   kind="file"
+   checksum="d385438e19b2ef2c7befc5df0a3f750f"
+   committed-rev="733"
+   last-author="cora"
+   name="PayQuery03Group.java"
+   text-time="2011-12-12T02:29:45.301000Z"
+   committed-date="2011-12-12T02:29:45.301876Z"/>
+<entry
+   kind="file"
+   checksum="96ee19974282531ff17eca80fdf81039"
+   committed-rev="733"
+   last-author="cora"
+   name="PayQuery04.java"
+   text-time="2011-12-12T02:29:45.301000Z"
+   committed-date="2011-12-12T02:29:45.301876Z"/>
+<entry
+   kind="file"
+   checksum="fcc65f10a5a12eb9a11ec48e51e5ef7f"
+   committed-rev="733"
+   last-author="cora"
+   name="PayQuery04Group.java"
+   text-time="2011-12-12T02:29:45.301000Z"
+   committed-date="2011-12-12T02:29:45.301876Z"/>
+<entry
+   kind="file"
+   checksum="92ae81c290602ae0e4d80d70803956d3"
+   committed-rev="733"
+   last-author="cora"
+   name="PayQuery05.java"
+   text-time="2011-12-12T02:29:45.301000Z"
+   committed-date="2011-12-12T02:29:45.301876Z"/>
+<entry
+   kind="file"
+   checksum="4c4ce32583d4fd377490f3c7355db7da"
+   committed-rev="733"
+   last-author="cora"
+   name="PayQuery05Group.java"
+   text-time="2011-12-12T02:29:45.301000Z"
+   committed-date="2011-12-12T02:29:45.301876Z"/>
+<entry
+   kind="file"
+   checksum="b0831a12ff6b730401a4a87a7feefc71"
+   committed-rev="827"
+   last-author="swei"
+   name="PayQuery06.java"
+   text-time="2012-04-06T09:19:02.341000Z"
+   committed-date="2012-04-06T09:19:02.341019Z"/>
+<entry
+   kind="file"
+   checksum="15f9b75d479efdd51054d0037100c83a"
+   committed-rev="733"
+   last-author="cora"
+   name="PayQuery06Group.java"
+   text-time="2011-12-12T02:29:45.301000Z"
+   committed-date="2011-12-12T02:29:45.301876Z"/>
+</wc-entries>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query"
+   kind="dir"
+   committed-rev="1078"
+   last-author="epf"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2016-01-20T09:40:47.866268Z"/>
+<entry
+   kind="dir"
+   name="controller"/>
+<entry
+   kind="dir"
+   name="model"/>
+<entry
+   kind="dir"
+   name="view"/>
+</wc-entries>

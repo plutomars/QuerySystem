@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/PoExam"
+   kind="dir"
+   committed-rev="673"
+   last-author="cora"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2011-11-24T12:30:05.170089Z"/>
+<entry
+   kind="file"
+   checksum="1d875d337d7dc6561f6e7a12111a43ea"
+   committed-rev="673"
+   last-author="cora"
+   name="PoExam00.java"
+   text-time="2011-11-24T12:30:05.170000Z"
+   committed-date="2011-11-24T12:30:05.170089Z"/>
+<entry
+   kind="file"
+   checksum="ab7cd0f7a5e97b1d765ab2a07d213a18"
+   committed-rev="391"
+   last-author="swei"
+   name="PoExam00Group.java"
+   text-time="2011-10-21T08:02:32.583000Z"
+   committed-date="2011-10-21T08:02:32.583824Z"/>
+<entry
+   kind="file"
+   checksum="e46cabe3186d0a1e0a66969035eef63b"
+   committed-rev="391"
+   last-author="swei"
+   name="PoExam01.java"
+   text-time="2011-10-21T08:02:32.583000Z"
+   committed-date="2011-10-21T08:02:32.583824Z"/>
+<entry
+   kind="file"
+   checksum="16ace2bb8a3f3f9e8097e00eed1d4df8"
+   committed-rev="391"
+   last-author="swei"
+   name="PoExam01Group.java"
+   text-time="2011-10-21T08:02:32.583000Z"
+   committed-date="2011-10-21T08:02:32.583824Z"/>
+<entry
+   kind="file"
+   checksum="f8916da823c46e3244cab9066e5e6375"
+   committed-rev="556"
+   last-author="swei"
+   name="PoExam01Query.java"
+   text-time="2011-11-10T03:43:59.991000Z"
+   committed-date="2011-11-10T03:43:59.991069Z"/>
+<entry
+   kind="file"
+   checksum="593a9fe881b8e7a85e234463e7c481e3"
+   committed-rev="391"
+   last-author="swei"
+   name="PoExam02.java"
+   text-time="2011-10-21T08:02:32.583000Z"
+   committed-date="2011-10-21T08:02:32.583824Z"/>
+<entry
+   kind="file"
+   checksum="9c0f2862579a632488db0e138fd34661"
+   committed-rev="391"
+   last-author="swei"
+   name="PoExam02Group.java"
+   text-time="2011-10-21T08:02:32.583000Z"
+   committed-date="2011-10-21T08:02:32.583824Z"/>
+<entry
+   kind="file"
+   checksum="e0d2ba8726fa2f2bf37893e87a351dd6"
+   committed-rev="391"
+   last-author="swei"
+   name="PoExam03.java"
+   text-time="2011-10-21T08:02:32.583000Z"
+   committed-date="2011-10-21T08:02:32.583824Z"/>
+<entry
+   kind="file"
+   checksum="5ffcde63194fdf41f6c3ab3f34d0cbad"
+   committed-rev="391"
+   last-author="swei"
+   name="PoExam03Group.java"
+   text-time="2011-10-21T08:02:32.583000Z"
+   committed-date="2011-10-21T08:02:32.583824Z"/>
+</wc-entries>

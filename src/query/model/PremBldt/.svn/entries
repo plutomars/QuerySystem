@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/PremBldt"
+   kind="dir"
+   committed-rev="1035"
+   last-author="cychu"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2015-03-20T01:21:33.444939Z"/>
+<entry
+   kind="file"
+   checksum="2e049964f2b4ddc8f913ed8b4f779fd5"
+   committed-rev="1035"
+   last-author="cychu"
+   name="PremBldt.java"
+   text-time="2015-03-20T01:21:33.444000Z"
+   committed-date="2015-03-20T01:21:33.444939Z"/>
+<entry
+   kind="file"
+   checksum="ff99d35e6a907c466bd4b7f007cfe487"
+   committed-rev="871"
+   last-author="cychu"
+   name="PremBldt01.java"
+   text-time="2012-04-20T08:40:53.198000Z"
+   committed-date="2012-04-20T08:40:53.198703Z"/>
+<entry
+   kind="file"
+   checksum="ce377e8bef627f27359617d564ebef7e"
+   committed-rev="909"
+   last-author="epf"
+   name="PremBldt01Group.java"
+   text-time="2012-07-20T07:25:57.666000Z"
+   committed-date="2012-07-20T07:25:57.666591Z"/>
+<entry
+   kind="file"
+   checksum="bd1f3056aeac8b1bbf659a2dab39b05b"
+   committed-rev="870"
+   last-author="cychu"
+   name="PremBldt02.java"
+   text-time="2012-04-20T08:39:16.341000Z"
+   committed-date="2012-04-20T08:39:16.341808Z"/>
+<entry
+   kind="file"
+   checksum="ed4be420a3e53b65010a2cc856829c38"
+   committed-rev="909"
+   last-author="epf"
+   name="PremBldt02Group.java"
+   text-time="2012-07-20T07:25:57.666000Z"
+   committed-date="2012-07-20T07:25:57.666591Z"/>
+<entry
+   kind="file"
+   checksum="ff6e278501e359a415e7dc4a8a5ad5b5"
+   committed-rev="870"
+   last-author="cychu"
+   name="PremBldt03.java"
+   text-time="2012-04-20T08:39:16.341000Z"
+   committed-date="2012-04-20T08:39:16.341808Z"/>
+<entry
+   kind="file"
+   checksum="76e919419f2c9d89238304ba7f67288e"
+   committed-rev="909"
+   last-author="epf"
+   name="PremBldt03Group.java"
+   text-time="2012-07-20T07:25:57.666000Z"
+   committed-date="2012-07-20T07:25:57.666591Z"/>
+<entry
+   kind="file"
+   checksum="76d07c7fe3c7155c30e56bf7487b5c20"
+   committed-rev="870"
+   last-author="cychu"
+   name="PremBldtGroup.java"
+   text-time="2012-04-20T08:39:16.341000Z"
+   committed-date="2012-04-20T08:39:16.341808Z"/>
+<entry
+   kind="file"
+   checksum="d24774dee107c29008e1736671cc24be"
+   committed-rev="870"
+   last-author="cychu"
+   name="PremBldtQuery.java"
+   text-time="2012-04-20T08:39:16.341000Z"
+   committed-date="2012-04-20T08:39:16.341808Z"/>
+<entry
+   kind="file"
+   checksum="c155c67c7fc135b4ec8b6bcd568e9e8a"
+   committed-rev="870"
+   last-author="cychu"
+   name="PremBldtQuery01.java"
+   text-time="2012-04-20T08:39:16.341000Z"
+   committed-date="2012-04-20T08:39:16.341808Z"/>
+</wc-entries>

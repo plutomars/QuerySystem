@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/NewRescind"
+   kind="dir"
+   committed-rev="762"
+   last-author="cora"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2012-01-19T08:04:11.971402Z"/>
+<entry
+   kind="file"
+   checksum="807c1ebcdf0d21d8dc2d089abba569e0"
+   committed-rev="762"
+   last-author="cora"
+   name="NewRescind01.java"
+   text-time="2012-01-19T08:04:11.971000Z"
+   committed-date="2012-01-19T08:04:11.971402Z"/>
+<entry
+   kind="file"
+   checksum="4cbc69a2557d9909e8ca708ca8648908"
+   committed-rev="187"
+   last-author="yihua"
+   name="NewRescind02.java"
+   text-time="2011-09-08T07:42:36.009000Z"
+   committed-date="2011-09-08T07:42:36.009161Z"/>
+<entry
+   kind="file"
+   checksum="a5294ab8a40e1072d8d6e1a70cc5bf19"
+   committed-rev="187"
+   last-author="yihua"
+   name="NewRescind02Group.java"
+   text-time="2011-09-08T07:42:36.009000Z"
+   committed-date="2011-09-08T07:42:36.009161Z"/>
+<entry
+   kind="file"
+   checksum="1fc51a4dd10f5633bd630a2b2955272a"
+   committed-rev="187"
+   last-author="yihua"
+   name="NewRescind03.java"
+   text-time="2011-09-08T07:42:36.009000Z"
+   committed-date="2011-09-08T07:42:36.009161Z"/>
+<entry
+   kind="file"
+   checksum="43fee81a27bb1ea336c4419b6d6e2570"
+   committed-rev="403"
+   last-author="cora"
+   name="NewRescind03Group.java"
+   text-time="2011-10-21T14:01:47.284000Z"
+   committed-date="2011-10-21T14:01:47.284778Z"/>
+<entry
+   kind="file"
+   checksum="f8945a0ff9e3c4da240d661dfd6e28a5"
+   committed-rev="187"
+   last-author="yihua"
+   name="NewRescind04.java"
+   text-time="2011-09-08T07:42:36.009000Z"
+   committed-date="2011-09-08T07:42:36.009161Z"/>
+<entry
+   kind="file"
+   checksum="56762fa2e30ddfefd66f911a31b6d3d7"
+   committed-rev="187"
+   last-author="yihua"
+   name="NewRescind04Group.java"
+   text-time="2011-09-08T07:42:36.009000Z"
+   committed-date="2011-09-08T07:42:36.009161Z"/>
+<entry
+   kind="file"
+   checksum="e3a4bb6d0a1c0b17f0395cf299e24d5a"
+   committed-rev="403"
+   last-author="cora"
+   name="NewRescindQuery.java"
+   text-time="2011-10-21T14:01:47.284000Z"
+   committed-date="2011-10-21T14:01:47.284778Z"/>
+</wc-entries>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/ValueReAssociate"
+   kind="dir"
+   committed-rev="754"
+   last-author="cora"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2012-01-09T05:57:42.402304Z"/>
+<entry
+   kind="file"
+   checksum="565356e634292601001b3a4c1d6a24b2"
+   committed-rev="754"
+   last-author="cora"
+   name="ValueReAssociate01.java"
+   text-time="2012-01-09T05:57:42.402000Z"
+   committed-date="2012-01-09T05:57:42.402304Z"/>
+<entry
+   kind="file"
+   checksum="fbdbadff8ca37aae0cc9047b885012f0"
+   committed-rev="754"
+   last-author="cora"
+   name="ValueReAssociate01Group.java"
+   text-time="2012-01-09T05:57:42.402000Z"
+   committed-date="2012-01-09T05:57:42.402304Z"/>
+<entry
+   kind="file"
+   checksum="a3da16db8cb8a7f47644654c9978ff07"
+   committed-rev="754"
+   last-author="cora"
+   name="ValueReAssociate01Query.java"
+   text-time="2012-01-09T05:57:42.402000Z"
+   committed-date="2012-01-09T05:57:42.402304Z"/>
+<entry
+   kind="file"
+   checksum="ffbf0047af90d5ae4a65026dd7fd0215"
+   committed-rev="754"
+   last-author="cora"
+   name="ValueReAssociate02.java"
+   text-time="2012-01-09T05:57:42.402000Z"
+   committed-date="2012-01-09T05:57:42.402304Z"/>
+<entry
+   kind="file"
+   checksum="d1f6bedbd5b403b1626912d45245e037"
+   committed-rev="754"
+   last-author="cora"
+   name="ValueReAssociate02Group.java"
+   text-time="2012-01-09T05:57:42.402000Z"
+   committed-date="2012-01-09T05:57:42.402304Z"/>
+</wc-entries>

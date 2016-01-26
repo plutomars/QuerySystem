@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/NewHospital"
+   kind="dir"
+   committed-rev="911"
+   last-author="cora"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2012-08-06T04:07:43.570063Z"/>
+<entry
+   kind="file"
+   checksum="ce44f88b69e307b221d5be1f220170ca"
+   committed-rev="911"
+   last-author="cora"
+   name="NewHospital01.java"
+   text-time="2012-08-06T04:07:43.570000Z"
+   committed-date="2012-08-06T04:07:43.570063Z"/>
+<entry
+   kind="file"
+   checksum="e3003b5a6c2de2c2306441dea6d6ae4e"
+   committed-rev="398"
+   last-author="swei"
+   name="NewHospital01Group.java"
+   text-time="2011-10-21T08:16:28.844000Z"
+   committed-date="2011-10-21T08:16:28.844528Z"/>
+<entry
+   kind="file"
+   checksum="76f0b509f9dc2a78a2931acb89892efb"
+   committed-rev="398"
+   last-author="swei"
+   name="NewHospital02.java"
+   text-time="2011-10-21T08:16:28.844000Z"
+   committed-date="2011-10-21T08:16:28.844528Z"/>
+<entry
+   kind="file"
+   checksum="d1c999905b4c1d2bb6f4a6be4bc2b58d"
+   committed-rev="398"
+   last-author="swei"
+   name="NewHospital02Group.java"
+   text-time="2011-10-21T08:16:28.844000Z"
+   committed-date="2011-10-21T08:16:28.844528Z"/>
+<entry
+   kind="file"
+   checksum="88867ab462cd326f2c333aac5ef0404f"
+   committed-rev="893"
+   last-author="swei"
+   name="NewHospitalQuery.java"
+   text-time="2012-06-27T02:56:44.913000Z"
+   committed-date="2012-06-27T02:56:44.913841Z"/>
+</wc-entries>

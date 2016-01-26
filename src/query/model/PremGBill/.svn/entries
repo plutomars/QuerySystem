@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/PremGBill"
+   kind="dir"
+   committed-rev="393"
+   last-author="swei"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2011-10-21T08:09:11.088925Z"/>
+<entry
+   kind="file"
+   checksum="6a5b15b388cfdc9be6ebf44f25690f9d"
+   committed-rev="393"
+   last-author="swei"
+   name="PremGBill01.java"
+   text-time="2011-10-21T08:09:11.088000Z"
+   committed-date="2011-10-21T08:09:11.088925Z"/>
+<entry
+   kind="file"
+   checksum="bb1dd28c23f75c8e5734e1eb4879c1c6"
+   committed-rev="393"
+   last-author="swei"
+   name="PremGBill01Group.java"
+   text-time="2011-10-21T08:09:11.088000Z"
+   committed-date="2011-10-21T08:09:11.088925Z"/>
+<entry
+   kind="file"
+   checksum="c0784161b62cd45c8a16a5e0a78a6ba9"
+   committed-rev="393"
+   last-author="swei"
+   name="PremGBill01Query.java"
+   text-time="2011-10-21T08:09:11.088000Z"
+   committed-date="2011-10-21T08:09:11.088925Z"/>
+<entry
+   kind="file"
+   checksum="a8180a6f9d8795c18d6c7255585f3f6c"
+   committed-rev="393"
+   last-author="swei"
+   name="PremGBill02.java"
+   text-time="2011-10-21T08:09:11.088000Z"
+   committed-date="2011-10-21T08:09:11.088925Z"/>
+<entry
+   kind="file"
+   checksum="830f91f19ff6d6e93a610eab21c29c7e"
+   committed-rev="393"
+   last-author="swei"
+   name="PremGBill02Group.java"
+   text-time="2011-10-21T08:09:11.088000Z"
+   committed-date="2011-10-21T08:09:11.088925Z"/>
+<entry
+   kind="file"
+   checksum="b7da29a222f09c55c214d989a503641b"
+   committed-rev="393"
+   last-author="swei"
+   name="PremGBill03.java"
+   text-time="2011-10-21T08:09:11.088000Z"
+   committed-date="2011-10-21T08:09:11.088925Z"/>
+<entry
+   kind="file"
+   checksum="b5dd6d2df4d6ae0f8c0337c0fe194934"
+   committed-rev="393"
+   last-author="swei"
+   name="PremGBill03Group.java"
+   text-time="2011-10-21T08:09:11.088000Z"
+   committed-date="2011-10-21T08:09:11.088925Z"/>
+</wc-entries>

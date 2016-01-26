@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/PoPlan"
+   kind="dir"
+   committed-rev="939"
+   last-author="cora"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2012-10-17T08:53:22.521487Z"/>
+<entry
+   kind="file"
+   checksum="2d948883b963c5d136198adb6301dc30"
+   committed-rev="178"
+   last-author="cychu"
+   name="PoPlan.java"
+   text-time="2011-09-07T07:21:22.851000Z"
+   committed-date="2011-09-07T07:21:22.851920Z"/>
+<entry
+   kind="file"
+   checksum="a70ba0ad7dc9231f7e9944c594a45ab1"
+   committed-rev="178"
+   last-author="cychu"
+   name="PoPlanGroup.java"
+   text-time="2011-09-07T07:21:22.851000Z"
+   committed-date="2011-09-07T07:21:22.851920Z"/>
+<entry
+   kind="file"
+   checksum="3adf04379f851e8b34f715d91dbef73f"
+   committed-rev="939"
+   last-author="cora"
+   name="PoPlanPrem.java"
+   text-time="2012-10-17T08:53:22.521000Z"
+   committed-date="2012-10-17T08:53:22.521487Z"/>
+<entry
+   kind="file"
+   checksum="4d9e8817ae80523389a332939ebe3715"
+   committed-rev="178"
+   last-author="cychu"
+   name="PoPlanPremGroup.java"
+   text-time="2011-09-07T07:21:22.851000Z"
+   committed-date="2011-09-07T07:21:22.851920Z"/>
+<entry
+   kind="file"
+   checksum="1ea3bdf86bd13d75752daeab42c01baf"
+   committed-rev="178"
+   last-author="cychu"
+   name="PoPlanQuery.java"
+   text-time="2011-09-07T07:21:22.851000Z"
+   committed-date="2011-09-07T07:21:22.851920Z"/>
+</wc-entries>

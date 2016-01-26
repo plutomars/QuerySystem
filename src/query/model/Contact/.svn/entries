@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/Contact"
+   kind="dir"
+   committed-rev="486"
+   last-author="fyyang"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2011-10-28T08:04:31.901954Z"/>
+<entry
+   kind="file"
+   checksum="76f95bdbe17996eabcc7f9105aae7b5e"
+   committed-rev="486"
+   last-author="fyyang"
+   name="Contact.java"
+   text-time="2011-10-28T08:04:31.901000Z"
+   committed-date="2011-10-28T08:04:31.901954Z"/>
+<entry
+   kind="file"
+   checksum="a772504d94b3cd0ef0b5635049daaa29"
+   committed-rev="248"
+   last-author="fyyang"
+   name="ContactGroup.java"
+   text-time="2011-10-04T09:28:56.021000Z"
+   committed-date="2011-10-04T09:28:56.021253Z"/>
+<entry
+   kind="file"
+   checksum="166696125537b89e8833869f11e2f785"
+   committed-rev="486"
+   last-author="fyyang"
+   name="ContactGroups.java"
+   text-time="2011-10-28T08:04:31.901000Z"
+   committed-date="2011-10-28T08:04:31.901954Z"/>
+<entry
+   kind="file"
+   checksum="9fa34d7664aa864e59b52d2286ca3798"
+   committed-rev="486"
+   last-author="fyyang"
+   name="ContactSend.java"
+   text-time="2011-10-28T08:04:31.901000Z"
+   committed-date="2011-10-28T08:04:31.901954Z"/>
+<entry
+   kind="file"
+   checksum="159f1dd6c07856821ad8baf1694f1ec8"
+   committed-rev="486"
+   last-author="fyyang"
+   name="ContactSendGroup.java"
+   text-time="2011-10-28T08:04:31.901000Z"
+   committed-date="2011-10-28T08:04:31.901954Z"/>
+</wc-entries>

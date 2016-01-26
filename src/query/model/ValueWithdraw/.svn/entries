@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/ValueWithdraw"
+   kind="dir"
+   committed-rev="692"
+   last-author="jnd115"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2011-11-29T01:27:34.526774Z"/>
+<entry
+   kind="file"
+   checksum="ad52c77195233b643da396237a062524"
+   committed-rev="692"
+   last-author="jnd115"
+   name="ValueWithdraw.java"
+   text-time="2011-11-29T01:27:34.526000Z"
+   committed-date="2011-11-29T01:27:34.526774Z"/>
+<entry
+   kind="file"
+   checksum="b90ee9f2933360128b94b6d9cb2738da"
+   committed-rev="28"
+   last-author="jnd115"
+   name="ValueWithdrawGroup.java"
+   text-time="2011-08-17T02:22:12.071000Z"
+   committed-date="2011-08-17T02:22:12.071140Z"/>
+<entry
+   kind="file"
+   checksum="e21f738fb8248a8c033bf98655473c36"
+   committed-rev="692"
+   last-author="jnd115"
+   name="ValueWithdrawQuery.java"
+   text-time="2011-11-29T01:27:34.526000Z"
+   committed-date="2011-11-29T01:27:34.526774Z"/>
+</wc-entries>

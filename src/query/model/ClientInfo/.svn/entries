@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/ClientInfo"
+   kind="dir"
+   committed-rev="1032"
+   last-author="epf"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2015-03-17T01:32:31.897838Z"/>
+<entry
+   kind="file"
+   checksum="5f6f55f0f662d69b02711e2846f23346"
+   committed-rev="917"
+   last-author="cora"
+   name="ClientInfo01.java"
+   text-time="2012-08-17T01:28:47.813000Z"
+   committed-date="2012-08-17T01:28:47.813733Z"/>
+<entry
+   kind="file"
+   checksum="0d8581e3d515cdc1ccb031ca668e58dc"
+   committed-rev="613"
+   last-author="cora"
+   name="ClientInfo02.java"
+   text-time="2011-11-19T13:00:11.858000Z"
+   committed-date="2011-11-19T13:00:11.858429Z"/>
+<entry
+   kind="file"
+   checksum="57f29286ca09f226db65904d75866c9e"
+   committed-rev="613"
+   last-author="cora"
+   name="ClientInfo02Group.java"
+   text-time="2011-11-19T13:00:11.858000Z"
+   committed-date="2011-11-19T13:00:11.858429Z"/>
+<entry
+   kind="file"
+   checksum="f5e4e1b6ad3233779eaf6aa9ed998e30"
+   committed-rev="945"
+   last-author="cora"
+   name="ClientInfo03.java"
+   text-time="2013-01-02T06:02:08.294000Z"
+   committed-date="2013-01-02T06:02:08.294412Z"/>
+<entry
+   kind="file"
+   checksum="d73890856413739741f18dcec7282375"
+   committed-rev="945"
+   last-author="cora"
+   name="ClientInfo03Group.java"
+   text-time="2013-01-02T06:02:08.294000Z"
+   committed-date="2013-01-02T06:02:08.294412Z"/>
+<entry
+   kind="file"
+   checksum="9e5d5e45e97194e8c0a53762783e249c"
+   committed-rev="1032"
+   last-author="epf"
+   name="ClientInfo04.java"
+   text-time="2015-03-17T01:24:26.875000Z"
+   committed-date="2015-03-17T01:32:31.897000Z"/>
+<entry
+   kind="file"
+   checksum="37db637b7ec17c6a9f99eae46093f127"
+   committed-rev="1030"
+   last-author="epf"
+   name="ClientInfoQuery.java"
+   text-time="2015-03-02T07:08:30.437000Z"
+   committed-date="2015-03-10T04:14:55.852000Z"/>
+</wc-entries>

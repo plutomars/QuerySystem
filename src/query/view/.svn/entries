@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/view"
+   kind="dir"
+   committed-rev="1078"
+   last-author="epf"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2016-01-20T09:40:47.866268Z"/>
+<entry
+   kind="file"
+   checksum="d335c6dfa23f0cec7680e8797bc0f016"
+   committed-rev="752"
+   last-author="fyyang"
+   name="ButtonTabComponent.java"
+   text-time="2012-01-06T12:02:54.173000Z"
+   committed-date="2012-01-06T12:02:54.173244Z"/>
+<entry
+   kind="file"
+   checksum="3b8c03b7f993263d2c38073d3dc34bc9"
+   committed-rev="906"
+   last-author="cora"
+   name="ClaimAssoJPanel.java"
+   text-time="2012-07-16T06:16:18.557000Z"
+   committed-date="2012-07-16T06:16:18.557292Z"/>
+<entry
+   kind="file"
+   checksum="a6fe93f3d65afc6852f3d733f0f6df62"
+   committed-rev="1008"
+   last-author="epf"
+   name="ClaimHistoryJPanel.java"
+   text-time="2014-07-08T04:05:16.609000Z"
+   committed-date="2014-07-08T04:05:41.602000Z"/>
+<entry
+   kind="file"
+   checksum="e4984d64d2d1a5a078287a1f0f5a6d6b"
+   committed-rev="1032"
+   last-author="epf"
+   name="ClientInfoJPanel.java"
+   text-time="2015-03-17T01:23:37.812000Z"
+   committed-date="2015-03-17T01:32:31.897000Z"/>
+<entry
+   kind="file"
+   committed-rev="1050"
+   checksum="b4d783182e3e5ab055312f911cf7d60b"
+   last-author="epf"
+   name="InvestAppointJPanel.java"
+   text-time="2015-05-22T03:19:36.515000Z"
+   committed-date="2015-05-22T03:20:09.287000Z"/>
+<entry
+   kind="file"
+   checksum="d171ed3d99272a4b30d5aa38f2b240e5"
+   committed-rev="758"
+   last-author="cora"
+   name="InvestAutoJPanel.java"
+   text-time="2012-01-10T03:36:53.060000Z"
+   committed-date="2012-01-10T03:36:53.060053Z"/>
+<entry
+   kind="file"
+   checksum="0314064a362f40ab619c84cad63b8080"
+   committed-rev="1053"
+   last-author="epf"
+   name="InvestCashJPanel.java"
+   text-time="2015-06-29T07:00:47.859000Z"
+   committed-date="2015-06-29T07:06:50.810000Z"/>
+<entry
+   kind="file"
+   checksum="c8eead66b6dfcafecfb8d051c0406732"
+   committed-rev="1040"
+   last-author="epf"
+   name="InvestDeductionJPanel.java"
+   text-time="2015-03-17T06:06:46.281000Z"
+   committed-date="2015-04-16T08:44:59.946000Z"/>
+<entry
+   kind="file"
+   checksum="41805047d74abb2a4439361a8593d097"
+   committed-rev="1015"
+   last-author="epf"
+   name="InvestGoalJPanel.java"
+   text-time="2014-09-25T06:33:23.953000Z"
+   committed-date="2014-09-25T06:36:50.143000Z"/>
+<entry
+   kind="file"
+   checksum="d753c2309a785a0dc3fac84c688c292b"
+   committed-rev="1017"
+   last-author="epf"
+   name="InvestHistoryJPanel.java"
+   text-time="2014-11-13T09:27:29.984000Z"
+   committed-date="2014-11-21T08:21:51.047000Z"/>
+<entry
+   kind="file"
+   checksum="beee3ae438a5dcf72602868d0eba8366"
+   committed-rev="486"
+   last-author="fyyang"
+   name="JContactBook.java"
+   text-time="2011-10-28T08:04:31.901000Z"
+   committed-date="2011-10-28T08:04:31.901954Z"/>
+<entry
+   kind="file"
+   checksum="8e3e6aefe07301e51e1684716e858f1e"
+   committed-rev="252"
+   last-author="fyyang"
+   name="JContactGroupDialog.java"
+   text-time="2011-10-05T07:34:23.827000Z"
+   committed-date="2011-10-05T07:34:23.827839Z"/>
+<entry
+   kind="file"
+   checksum="da27790080bf21b415cf99c16264d784"
+   committed-rev="545"
+   last-author="fyyang"
+   name="MessageFrame.java"
+   text-time="2011-11-09T03:40:33.893000Z"
+   committed-date="2011-11-09T03:40:33.893377Z"/>
+<entry
+   kind="file"
+   checksum="b98627656c5e1f1fa7346d5a917dbdad"
+   committed-rev="940"
+   last-author="cora"
+   name="NewDetailJPanel.java"
+   text-time="2012-10-25T07:45:57.859000Z"
+   committed-date="2012-10-25T07:45:57.859597Z"/>
+<entry
+   kind="file"
+   checksum="8d63e39592f9d493ede10b21db7d818c"
+   committed-rev="934"
+   last-author="cora"
+   name="NewFaceAmountJPanel.java"
+   text-time="2012-10-01T08:08:41.178000Z"
+   committed-date="2012-10-01T08:08:41.178264Z"/>
+<entry
+   kind="file"
+   checksum="fadbe185a86b542bb5483472cedde6c4"
+   committed-rev="911"
+   last-author="cora"
+   name="NewHospitalJPanel.java"
+   text-time="2012-08-06T04:07:43.570000Z"
+   committed-date="2012-08-06T04:07:43.570063Z"/>
+<entry
+   kind="file"
+   checksum="1aef1308e2386528699c8e6473dc7299"
+   committed-rev="754"
+   last-author="cora"
+   name="NewPhysicalExamJPanel.java"
+   text-time="2012-01-09T05:57:42.402000Z"
+   committed-date="2012-01-09T05:57:42.402304Z"/>
+<entry
+   kind="file"
+   checksum="9b57eef83c65a8e422cc2c2d6b8440ac"
+   committed-rev="762"
+   last-author="cora"
+   name="NewRescindJPanel.java"
+   text-time="2012-01-19T08:04:11.971000Z"
+   committed-date="2012-01-19T08:04:11.971402Z"/>
+<entry
+   kind="file"
+   checksum="ebe0dc46edf8fc8831aae5ac824ac22c"
+   committed-rev="754"
+   last-author="cora"
+   name="NewSamplingRecordJPanel.java"
+   text-time="2012-01-09T05:57:42.402000Z"
+   committed-date="2012-01-09T05:57:42.402304Z"/>
+<entry
+   kind="file"
+   checksum="88128bb9bd08739405bf2f2d93877af1"
+   committed-rev="587"
+   last-author="fyyang"
+   name="NoteFrame.java"
+   text-time="2011-11-15T07:48:05.184000Z"
+   committed-date="2011-11-15T07:48:05.184387Z"/>
+<entry
+   kind="file"
+   checksum="fe319b31bf3f9ca165b954592bfa9c0c"
+   committed-rev="676"
+   last-author="epf"
+   name="PanelTipFrame.java"
+   text-time="2011-11-28T03:40:14.333000Z"
+   committed-date="2011-11-28T03:40:14.333056Z"/>
+<entry
+   kind="file"
+   checksum="6186a5b09bb19b141875bd61b6bc1f23"
+   committed-rev="846"
+   last-author="cora"
+   name="PayAccountJPanel.java"
+   text-time="2012-04-17T06:37:53.297000Z"
+   committed-date="2012-04-17T06:37:53.297798Z"/>
+<entry
+   kind="file"
+   checksum="f4f20e5961cdeea13917b6df19ed28b7"
+   committed-rev="882"
+   last-author="cora"
+   name="PayQueryJPanel.java"
+   text-time="2012-05-07T10:15:38.662000Z"
+   committed-date="2012-05-07T10:15:38.662318Z"/>
+<entry
+   kind="file"
+   checksum="9853e31e391404951f6ce0b32f459698"
+   committed-rev="771"
+   last-author="cora"
+   name="PoBonusJPanel.java"
+   text-time="2012-03-08T05:51:17.325000Z"
+   committed-date="2012-03-08T05:51:17.325646Z"/>
+<entry
+   kind="file"
+   checksum="6a59ee9ec3aac6f121b307dd703d94c0"
+   committed-rev="1078"
+   last-author="epf"
+   name="PoDetailJPanel.java"
+   text-time="2016-01-20T09:40:47.866000Z"
+   committed-date="2016-01-20T09:40:47.866268Z"/>
+<entry
+   kind="file"
+   checksum="07e19534c21fda003dd1e3cf75ae6248"
+   committed-rev="762"
+   last-author="cora"
+   name="PoExam01JPanel.java"
+   text-time="2012-01-19T08:04:11.971000Z"
+   committed-date="2012-01-19T08:04:11.971402Z"/>
+<entry
+   kind="file"
+   checksum="3fd0fb71ed0f871a02a3e3055b76890e"
+   committed-rev="903"
+   last-author="cychu"
+   name="PoPlanJPanel.java"
+   text-time="2012-07-09T09:45:59.788000Z"
+   committed-date="2012-07-09T09:45:59.788438Z"/>
+<entry
+   kind="file"
+   checksum="bf418fa0aa64587352739e8ef3956313"
+   committed-rev="1060"
+   last-author="epf"
+   name="PoRelationJPanel.java"
+   text-time="2015-07-16T02:48:42.468000Z"
+   committed-date="2015-07-16T02:48:42.468000Z"/>
+<entry
+   kind="file"
+   checksum="f6c9374c2a4cbe906a9282ae55528cc2"
+   committed-rev="1047"
+   last-author="epf"
+   name="PoValueAddShareJPanel.java"
+   text-time="2015-05-14T03:22:34.718000Z"
+   committed-date="2015-05-14T03:22:34.547000Z"/>
+<entry
+   kind="file"
+   checksum="a82613ded92bed26ef0308eba70e1632"
+   committed-rev="1020"
+   last-author="epf"
+   name="PosChangeJPanel.java"
+   text-time="2015-01-27T07:29:02.781000Z"
+   committed-date="2015-01-27T08:05:04.932000Z"/>
+<entry
+   kind="file"
+   checksum="b07c59c233dbbc54eefc5dbc953a405d"
+   committed-rev="911"
+   last-author="cora"
+   name="PosECJPanel.java"
+   text-time="2012-08-06T04:07:43.570063Z"
+   committed-date="2012-08-06T04:07:43.570063Z"/>
+<entry
+   kind="file"
+   checksum="9c538be951ca20215711f317b076308b"
+   committed-rev="946"
+   last-author="cora"
+   name="PosNoticeJPanel.java"
+   text-time="2013-02-22T03:17:17.025000Z"
+   committed-date="2013-02-22T03:17:17.025580Z"/>
+<entry
+   kind="file"
+   checksum="19a01b8806a9ee5cef1e4b2ddd8d508a"
+   committed-rev="1039"
+   last-author="cychu"
+   name="PremBillJPanel.java"
+   text-time="2015-04-16T05:50:09.946000Z"
+   committed-date="2015-04-16T05:50:09.946750Z"/>
+<entry
+   kind="file"
+   checksum="cbefdb5e73584cf0d43e10be33108201"
+   committed-rev="1036"
+   last-author="cychu"
+   name="PremBldtJPanel.java"
+   text-time="2015-03-20T01:24:11.306000Z"
+   committed-date="2015-03-20T01:24:11.306335Z"/>
+<entry
+   kind="file"
+   checksum="34db520dc64b74fbac26ceb1856fdc9a"
+   committed-rev="758"
+   last-author="cora"
+   name="PremGBillJPanel.java"
+   text-time="2012-01-10T03:36:53.060000Z"
+   committed-date="2012-01-10T03:36:53.060053Z"/>
+<entry
+   kind="file"
+   checksum="df12b5ca8cc5405e33e386d559bca280"
+   committed-rev="945"
+   last-author="cora"
+   name="PremPostalJPanel.java"
+   text-time="2013-01-02T06:02:08.294000Z"
+   committed-date="2013-01-02T06:02:08.294412Z"/>
+<entry
+   kind="file"
+   checksum="da65d405859e0ff825d4ca290fbfb10c"
+   committed-rev="937"
+   last-author="jnd115"
+   name="PremProxyJPanel.java"
+   text-time="2012-10-08T07:20:18.188000Z"
+   committed-date="2012-10-08T07:20:18.188572Z"/>
+<entry
+   kind="file"
+   checksum="1d3e5d93555255d763a31f286beb1dd1"
+   committed-rev="837"
+   last-author="cychu"
+   name="PremRejectJPanel.java"
+   text-time="2012-04-10T08:36:13.085000Z"
+   committed-date="2012-04-10T08:36:13.085763Z"/>
+<entry
+   kind="file"
+   checksum="990ed88563c71d536d9036a6071bd42a"
+   committed-rev="1075"
+   last-author="epf"
+   name="QueryFrame.java"
+   text-time="2016-01-08T06:23:28.747000Z"
+   committed-date="2016-01-08T06:23:28.747993Z"
+   prop-time="2013-07-10T07:47:58.777000Z"/>
+<entry
+   kind="file"
+   checksum="d1573490d155dff53691b9cd011d41b8"
+   committed-rev="9"
+   last-author="fyyang"
+   name="QueryPoShowPanel.java"
+   text-time="2011-08-16T01:09:26.414000Z"
+   committed-date="2011-08-16T01:09:26.414206Z"/>
+<entry
+   kind="file"
+   checksum="38bfba47963a4cfe5344e58fb41acb97"
+   committed-rev="723"
+   last-author="fyyang"
+   name="ToolTipFrame.java"
+   text-time="2011-11-30T08:20:49.518000Z"
+   committed-date="2011-11-30T08:20:49.518289Z"/>
+<entry
+   kind="file"
+   checksum="352defe3fa10e649d440a44777043d8d"
+   committed-rev="754"
+   last-author="cora"
+   name="ValueReAssociateJPanel.java"
+   text-time="2012-01-09T05:57:42.402000Z"
+   committed-date="2012-01-09T05:57:42.402304Z"/>
+<entry
+   kind="file"
+   checksum="635a07d2736696e500a6a3fa0b8d3d68"
+   committed-rev="1023"
+   last-author="epf"
+   name="ValueRepayJPanel.java"
+   text-time="2015-01-28T08:58:37.585000Z"
+   committed-date="2015-01-28T08:58:37.585000Z"/>
+<entry
+   kind="file"
+   checksum="5d3888a9620597bfff629014093c2db1"
+   committed-rev="883"
+   last-author="cora"
+   name="ValueWithdrawJPanel.java"
+   text-time="2012-05-08T02:16:43.175000Z"
+   committed-date="2012-05-08T02:16:43.175114Z"/>
+</wc-entries>

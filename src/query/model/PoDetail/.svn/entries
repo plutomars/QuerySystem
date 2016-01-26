@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/PoDetail"
+   kind="dir"
+   committed-rev="1077"
+   last-author="epf"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2016-01-20T09:39:09.201810Z"/>
+<entry
+   kind="file"
+   checksum="8e20dc7f441c66a5a875888e3f9a4774"
+   committed-rev="986"
+   last-author="epf"
+   name="PoDetailA.java"
+   text-time="2013-12-03T08:22:06.593000Z"
+   committed-date="2013-12-04T02:08:18.901000Z"/>
+<entry
+   kind="file"
+   checksum="5a604821e815973f064b6001b3b8ddd2"
+   committed-rev="1077"
+   last-author="epf"
+   name="PoDetailComm.java"
+   text-time="2016-01-20T09:39:09.201000Z"
+   committed-date="2016-01-20T09:39:09.201810Z"/>
+<entry
+   kind="file"
+   checksum="26957ad59a9e6a1713b26adceb980875"
+   committed-rev="762"
+   last-author="cora"
+   name="PoDetailECacct.java"
+   text-time="2012-01-19T08:04:11.971000Z"
+   committed-date="2012-01-19T08:04:11.971402Z"/>
+<entry
+   kind="file"
+   checksum="41cdfcb7517bb3a46c2e1444c03e9ad8"
+   committed-rev="578"
+   last-author="cora"
+   name="PoDetailECacctGroup.java"
+   text-time="2011-11-14T10:35:46.049000Z"
+   committed-date="2011-11-14T10:35:46.049311Z"/>
+<entry
+   kind="file"
+   checksum="93ab1ea64cf92616af68f14b32b883e8"
+   committed-rev="576"
+   last-author="cora"
+   name="PoDetailECinsured.java"
+   text-time="2011-11-14T02:30:34.743000Z"
+   committed-date="2011-11-14T02:30:34.743238Z"/>
+<entry
+   kind="file"
+   checksum="f383241f952b6d7a7d6e680b7e9248bf"
+   committed-rev="578"
+   last-author="cora"
+   name="PoDetailECinsuredGroup.java"
+   text-time="2011-11-14T10:35:46.049000Z"
+   committed-date="2011-11-14T10:35:46.049311Z"/>
+<entry
+   kind="file"
+   checksum="8ec2f29f8623b14a8ea9545472375ccc"
+   committed-rev="578"
+   last-author="cora"
+   name="PoDetailECpasswd.java"
+   text-time="2011-11-14T10:35:46.049000Z"
+   committed-date="2011-11-14T10:35:46.049311Z"/>
+<entry
+   kind="file"
+   checksum="56591172cdb53d519eb9e7810a88643b"
+   committed-rev="578"
+   last-author="cora"
+   name="PoDetailECpasswdGroup.java"
+   text-time="2011-11-14T10:35:46.049000Z"
+   committed-date="2011-11-14T10:35:46.049311Z"/>
+<entry
+   kind="file"
+   checksum="fc5b4d5c30adddb857109dc0d24b3e53"
+   committed-rev="576"
+   last-author="cora"
+   name="PoDetailECprint.java"
+   text-time="2011-11-14T02:30:34.743000Z"
+   committed-date="2011-11-14T02:30:34.743238Z"/>
+<entry
+   kind="file"
+   checksum="b29763c108427a548bb7d325ba155b29"
+   committed-rev="578"
+   last-author="cora"
+   name="PoDetailECprintGroup.java"
+   text-time="2011-11-14T10:35:46.049000Z"
+   committed-date="2011-11-14T10:35:46.049311Z"/>
+<entry
+   kind="file"
+   checksum="692b902b9c76e4fcc0f2b32e35b858ed"
+   committed-rev="1040"
+   last-author="epf"
+   name="PoDetailI.java"
+   text-time="2015-03-17T06:03:10.140000Z"
+   committed-date="2015-04-16T08:44:59.946000Z"/>
+<entry
+   kind="file"
+   checksum="d98321bf956c218d58f4e915b297236e"
+   committed-rev="1040"
+   last-author="epf"
+   name="PoDetailIList.java"
+   text-time="2015-03-17T06:25:09.140000Z"
+   committed-date="2015-04-16T08:44:59.946000Z"/>
+<entry
+   kind="file"
+   checksum="b2402506d7f86ab769d43fba1f498eb5"
+   committed-rev="207"
+   last-author="cora"
+   name="PoDetailIListGroup.java"
+   text-time="2011-09-09T06:02:03.157000Z"
+   committed-date="2011-09-09T06:02:03.157085Z"/>
+<entry
+   kind="file"
+   checksum="c7b5d0c7fb76a869dfbb3f75b9e1c8a1"
+   committed-rev="939"
+   last-author="cora"
+   name="PoDetailLFPA.java"
+   text-time="2012-10-17T08:53:22.521000Z"
+   committed-date="2012-10-17T08:53:22.521487Z"/>
+<entry
+   kind="file"
+   checksum="100eeed3d26ea059749538d0b1856562"
+   committed-rev="207"
+   last-author="cora"
+   name="PoDetailPrem.java"
+   text-time="2011-09-09T06:02:03.157000Z"
+   committed-date="2011-09-09T06:02:03.157085Z"/>
+<entry
+   kind="file"
+   checksum="e35ea9c44761bbc9310efe2351764d9f"
+   committed-rev="1077"
+   last-author="epf"
+   name="PoDetailQuery.java"
+   text-time="2016-01-20T09:39:09.201000Z"
+   committed-date="2016-01-20T09:39:09.201810Z"/>
+<entry
+   kind="file"
+   checksum="c6a6fdc2584c6032010707a620172d8f"
+   committed-rev="1010"
+   last-author="epf"
+   name="PoDetailTarget.java"
+   text-time="2014-09-17T02:37:05.296000Z"
+   committed-date="2014-09-18T03:55:40.471000Z"/>
+<entry
+   kind="file"
+   checksum="c4185e421847e30b3e587e93345b978c"
+   committed-rev="1010"
+   last-author="epf"
+   name="PoDetailTargetGroup.java"
+   text-time="2014-09-17T02:56:14.640000Z"
+   committed-date="2014-09-18T03:55:40.471000Z"/>
+<entry
+   kind="file"
+   checksum="5da2c6fea68c3a9e7d4795f57baebc8d"
+   committed-rev="946"
+   last-author="cora"
+   name="PoDetailU.java"
+   text-time="2013-02-22T03:17:17.025000Z"
+   committed-date="2013-02-22T03:17:17.025580Z"/>
+</wc-entries>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/NewFaceAmount"
+   kind="dir"
+   committed-rev="925"
+   last-author="cora"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2012-08-29T07:13:16.247807Z"/>
+<entry
+   kind="file"
+   checksum="0ee3fba1961ef158b8b1befba137594e"
+   committed-rev="925"
+   last-author="cora"
+   name="NewFaceAmount01.java"
+   text-time="2012-08-29T07:13:16.247000Z"
+   committed-date="2012-08-29T07:13:16.247807Z"/>
+<entry
+   kind="file"
+   checksum="99d1d599b8a91ad1aa159fae4684e8af"
+   committed-rev="770"
+   last-author="cora"
+   name="NewFaceAmount01Group.java"
+   text-time="2012-02-21T01:27:02.854000Z"
+   committed-date="2012-02-21T01:27:02.854417Z"/>
+<entry
+   kind="file"
+   checksum="00a43c22fe28ae5e4014d1901b1251f2"
+   committed-rev="689"
+   last-author="jnd115"
+   name="NewFaceAmount02.java"
+   text-time="2011-11-29T01:27:09.261000Z"
+   committed-date="2011-11-29T01:27:09.261149Z"/>
+<entry
+   kind="file"
+   checksum="b9409d04c75c154b72db6b89073815f1"
+   committed-rev="689"
+   last-author="jnd115"
+   name="NewFaceAmount03.java"
+   text-time="2011-11-29T01:27:09.261000Z"
+   committed-date="2011-11-29T01:27:09.261149Z"/>
+<entry
+   kind="file"
+   checksum="6ed1bdcd4c6d59c923b14efb325cb9c2"
+   committed-rev="925"
+   last-author="cora"
+   name="NewFaceAmountIPA.java"
+   text-time="2012-08-29T07:13:16.247000Z"
+   committed-date="2012-08-29T07:13:16.247807Z"/>
+<entry
+   kind="file"
+   checksum="02378626b573507129c8dece01277657"
+   committed-rev="925"
+   last-author="cora"
+   name="NewFaceAmountIPAGroup.java"
+   text-time="2012-08-29T07:13:16.247000Z"
+   committed-date="2012-08-29T07:13:16.247807Z"/>
+<entry
+   kind="file"
+   checksum="681fa2cb27dec2357cef10a29c3654af"
+   committed-rev="925"
+   last-author="cora"
+   name="NewFaceAmountQuery.java"
+   text-time="2012-08-29T07:13:16.247000Z"
+   committed-date="2012-08-29T07:13:16.247807Z"/>
+</wc-entries>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model"
+   kind="dir"
+   committed-rev="1077"
+   last-author="epf"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2016-01-20T09:39:09.201810Z"/>
+<entry
+   kind="file"
+   checksum="a0ab92e199e153fd6bedbad36a481d67"
+   committed-rev="1072"
+   last-author="epf"
+   name="Authority.java"
+   text-time="2015-12-02T06:02:30.900000Z"
+   committed-date="2015-12-02T06:02:30.900121Z"/>
+<entry
+   kind="file"
+   checksum="b0a3a0080e7d9f9c88fd1ce72da39187"
+   committed-rev="171"
+   last-author="fyyang"
+   name="AuthorityGroup.java"
+   text-time="2011-09-02T08:46:30.616000Z"
+   committed-date="2011-09-02T08:46:30.616798Z"/>
+<entry
+   kind="file"
+   checksum="0e761f760031e0793397714c2400fe79"
+   committed-rev="171"
+   last-author="fyyang"
+   name="AuthorityQuery.java"
+   text-time="2011-09-02T08:46:30.616000Z"
+   committed-date="2011-09-02T08:46:30.616798Z"/>
+<entry
+   kind="dir"
+   name="ClaimAssoDetail"/>
+<entry
+   kind="dir"
+   name="ClaimHistory"/>
+<entry
+   kind="dir"
+   name="ClientInfo"/>
+<entry
+   kind="dir"
+   name="Contact"/>
+<entry
+   kind="dir"
+   name="InvestAppoint"/>
+<entry
+   kind="dir"
+   name="InvestAuto"/>
+<entry
+   kind="dir"
+   name="InvestCash"/>
+<entry
+   kind="dir"
+   name="InvestDeduction"/>
+<entry
+   kind="dir"
+   name="InvestGoal"/>
+<entry
+   kind="dir"
+   name="InvestHistory"/>
+<entry
+   kind="dir"
+   name="Message"/>
+<entry
+   kind="file"
+   checksum="2873f154dedeae99f05829471933e9c6"
+   committed-rev="543"
+   last-author="fyyang"
+   name="MessageObject.java"
+   text-time="2011-11-09T03:40:05.564000Z"
+   committed-date="2011-11-09T03:40:05.564889Z"/>
+<entry
+   kind="dir"
+   name="NewDetail"/>
+<entry
+   kind="dir"
+   name="NewFaceAmount"/>
+<entry
+   kind="dir"
+   name="NewHospital"/>
+<entry
+   kind="dir"
+   name="NewPhysicalExam"/>
+<entry
+   kind="dir"
+   name="NewRescind"/>
+<entry
+   kind="dir"
+   name="NewSamplingRecord"/>
+<entry
+   kind="dir"
+   name="PayAccount"/>
+<entry
+   kind="dir"
+   name="PayQuery"/>
+<entry
+   kind="dir"
+   name="PoBonus"/>
+<entry
+   kind="dir"
+   name="PoDetail"/>
+<entry
+   kind="dir"
+   name="PoExam"/>
+<entry
+   kind="dir"
+   name="PoPlan"/>
+<entry
+   kind="dir"
+   name="PoRelation"/>
+<entry
+   kind="dir"
+   name="PoValueAddShare"/>
+<entry
+   kind="dir"
+   name="PosChange"/>
+<entry
+   kind="dir"
+   name="PosEC"/>
+<entry
+   kind="dir"
+   name="PosNotice"/>
+<entry
+   kind="dir"
+   name="PremBill"/>
+<entry
+   kind="dir"
+   name="PremBldt"/>
+<entry
+   kind="dir"
+   name="PremGBill"/>
+<entry
+   kind="dir"
+   name="PremPostal"/>
+<entry
+   kind="dir"
+   name="PremProxy"/>
+<entry
+   kind="dir"
+   name="PremReject"/>
+<entry
+   kind="file"
+   checksum="8ac1c3669926af7d64825da38ea1353c"
+   committed-rev="9"
+   last-author="fyyang"
+   name="QueryPoClient.java"
+   text-time="2011-08-16T01:09:26.414000Z"
+   committed-date="2011-08-16T01:09:26.414206Z"/>
+<entry
+   kind="file"
+   checksum="985f0a1a6b4fd408bfb07ddd2dfdd5c3"
+   committed-rev="816"
+   last-author="cora"
+   name="QueryPolicy.java"
+   text-time="2012-04-05T01:52:50.592000Z"
+   committed-date="2012-04-05T01:52:50.592698Z"/>
+<entry
+   kind="file"
+   checksum="0f480eeba2f12100cadca029f3a0e9d8"
+   committed-rev="64"
+   last-author="fyyang"
+   name="QueryPolicyGroup.java"
+   text-time="2011-08-19T04:03:49.922000Z"
+   committed-date="2011-08-19T04:03:49.922014Z"/>
+<entry
+   kind="file"
+   checksum="05fc00484b9d9060c375ecb027c03c71"
+   committed-rev="1075"
+   last-author="epf"
+   name="QueryPolicyQuery.java"
+   text-time="2016-01-08T06:23:28.747000Z"
+   committed-date="2016-01-08T06:23:28.747993Z"/>
+<entry
+   kind="file"
+   checksum="828bbfcda2bdccab9d13f314a4e3af33"
+   committed-rev="778"
+   last-author="fyyang"
+   name="ScreenCapture.java"
+   text-time="2012-03-16T09:20:11.666000Z"
+   committed-date="2012-03-16T09:20:11.666791Z"/>
+<entry
+   kind="file"
+   checksum="5a262d76e6a1e1a60005deb88db53679"
+   committed-rev="1041"
+   last-author="epf"
+   name="SelectionTreeModel.java"
+   text-time="2015-04-28T08:47:53.156000Z"
+   committed-date="2015-04-30T02:49:24.027000Z"/>
+<entry
+   kind="dir"
+   name="ValueReAssociate"/>
+<entry
+   kind="dir"
+   name="ValueRepay"/>
+<entry
+   kind="dir"
+   name="ValueWithdraw"/>
+</wc-entries>

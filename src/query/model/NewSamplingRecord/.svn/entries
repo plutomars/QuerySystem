@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/NewSamplingRecord"
+   kind="dir"
+   committed-rev="576"
+   last-author="cora"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2011-11-14T02:30:34.743238Z"/>
+<entry
+   kind="file"
+   checksum="d310b4d54101c5af8265e09f1f116fde"
+   committed-rev="576"
+   last-author="cora"
+   name="SamplingRecord.java"
+   text-time="2011-11-14T02:30:34.743000Z"
+   committed-date="2011-11-14T02:30:34.743238Z"/>
+<entry
+   kind="file"
+   checksum="ccfac6936c489e364fb2a3a0cabb41e5"
+   committed-rev="576"
+   last-author="cora"
+   name="SamplingRecordList.java"
+   text-time="2011-11-14T02:30:34.743000Z"
+   committed-date="2011-11-14T02:30:34.743238Z"/>
+<entry
+   kind="file"
+   checksum="00ade8bb43ecadafc6191e739b5e0226"
+   committed-rev="576"
+   last-author="cora"
+   name="SamplingRecordListGroup.java"
+   text-time="2011-11-14T02:30:34.743000Z"
+   committed-date="2011-11-14T02:30:34.743238Z"/>
+<entry
+   kind="file"
+   checksum="594a26ff3e8c92ecd5b44d863504a25c"
+   committed-rev="576"
+   last-author="cora"
+   name="SamplingRecordQuery.java"
+   text-time="2011-11-14T02:30:34.743000Z"
+   committed-date="2011-11-14T02:30:34.743238Z"/>
+</wc-entries>

@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/NewDetail"
+   kind="dir"
+   committed-rev="983"
+   last-author="epf"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2013-08-06T03:36:07.047239Z"/>
+<entry
+   kind="file"
+   checksum="35ec26ca45b6b7ed449891a11536321f"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailClaimHistory.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="af0f87fd33f437e343f7e5e5f97654e8"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailClaimHistoryGroup.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="c9e0230a203aac0b997ea465aebb8b70"
+   committed-rev="902"
+   last-author="cychu"
+   name="NewDetailClaimHistoryQuery.java"
+   text-time="2012-07-09T09:40:52.362000Z"
+   committed-date="2012-07-09T09:40:52.362628Z"/>
+<entry
+   kind="file"
+   checksum="b2236e46228f0b449e6bdbaa11a6446c"
+   committed-rev="934"
+   last-author="cora"
+   name="NewDetailComm.java"
+   text-time="2012-10-01T08:08:41.178000Z"
+   committed-date="2012-10-01T08:08:41.178264Z"/>
+<entry
+   kind="file"
+   checksum="ceeba0b265c28dc50942b5caa357e1e1"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailCommCmnt.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="2767aeee7401f9d65c851469e09aea1c"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailCommCmntGroup.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="714bf80d04f883beb74adb1e29e7a0da"
+   committed-rev="902"
+   last-author="cychu"
+   name="NewDetailCommCmntQuery.java"
+   text-time="2012-07-09T09:40:52.362000Z"
+   committed-date="2012-07-09T09:40:52.362628Z"/>
+<entry
+   kind="file"
+   checksum="ff415abddffebba9166007e3f6eaed53"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailCommGroup.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="2af8f2fc576b1389eff8d81343633c50"
+   committed-rev="782"
+   last-author="fyyang"
+   name="NewDetailCommInsured.java"
+   text-time="2012-03-22T02:31:01.016000Z"
+   committed-date="2012-03-22T02:31:01.016859Z"/>
+<entry
+   kind="file"
+   checksum="2e3eea97635def0b6c56d1ebe4016e56"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailCommInsuredGroup.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="7abecc7295db0b702c3de160f93f71e0"
+   committed-rev="904"
+   last-author="cychu"
+   name="NewDetailCommInsuredQuery.java"
+   text-time="2012-07-10T06:14:23.695000Z"
+   committed-date="2012-07-10T06:14:23.695266Z"/>
+<entry
+   kind="file"
+   checksum="1ae37174293dffae48e8f8ab80bb35c4"
+   committed-rev="934"
+   last-author="cora"
+   name="NewDetailCommQuery.java"
+   text-time="2012-10-01T08:08:41.178000Z"
+   committed-date="2012-10-01T08:08:41.178264Z"/>
+<entry
+   kind="file"
+   checksum="4c54d7639993336a0cbd0a31399fed13"
+   committed-rev="732"
+   last-author="cora"
+   name="NewDetailDeny.java"
+   text-time="2011-12-03T13:07:44.973000Z"
+   committed-date="2011-12-03T13:07:44.973583Z"/>
+<entry
+   kind="file"
+   checksum="ee7019cc68e72d92734f9f20393f26cd"
+   committed-rev="902"
+   last-author="cychu"
+   name="NewDetailDenyQuery.java"
+   text-time="2012-07-09T09:40:52.362000Z"
+   committed-date="2012-07-09T09:40:52.362628Z"/>
+<entry
+   kind="file"
+   checksum="8f24469e506bcb62fc35cc70de9b7103"
+   committed-rev="673"
+   last-author="cora"
+   name="NewDetailExamInfo.java"
+   text-time="2011-11-24T12:30:05.170000Z"
+   committed-date="2011-11-24T12:30:05.170089Z"/>
+<entry
+   kind="file"
+   checksum="a5eeb98c34f36d8f31c781999cdb087e"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailExamInfoGroup.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="9fed1b73c8bdfc514a2a8d2cf4008feb"
+   committed-rev="902"
+   last-author="cychu"
+   name="NewDetailExamInfoQuery.java"
+   text-time="2012-07-09T09:40:52.362000Z"
+   committed-date="2012-07-09T09:40:52.362628Z"/>
+<entry
+   kind="file"
+   checksum="83f6fe37f46bc134aa54e819ff7e2407"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailExamNotice.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="f675a49765fc32f62e970dd8a114d0b2"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailExamNoticeGroup.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="849ad44570aeca98066c03bea0c60279"
+   committed-rev="902"
+   last-author="cychu"
+   name="NewDetailExamNoticeQuery.java"
+   text-time="2012-07-09T09:40:52.362000Z"
+   committed-date="2012-07-09T09:40:52.362628Z"/>
+<entry
+   kind="file"
+   checksum="ffe24d588427813b5bef136226ebc731"
+   committed-rev="633"
+   last-author="cora"
+   name="NewDetailIllegalAddr.java"
+   text-time="2011-11-23T06:44:28.076000Z"
+   committed-date="2011-11-23T06:44:28.076614Z"/>
+<entry
+   kind="file"
+   checksum="ef9d089af487cdc5b4cd4cd0162dd9ed"
+   committed-rev="630"
+   last-author="cora"
+   name="NewDetailIllegalAddrAg.java"
+   text-time="2011-11-22T13:21:23.478000Z"
+   committed-date="2011-11-22T13:21:23.478369Z"/>
+<entry
+   kind="file"
+   checksum="794fed6774a95610ce325b2784ef5783"
+   committed-rev="630"
+   last-author="cora"
+   name="NewDetailIllegalAddrAgGroup.java"
+   text-time="2011-11-22T13:21:23.478000Z"
+   committed-date="2011-11-22T13:21:23.478369Z"/>
+<entry
+   kind="file"
+   checksum="dd7e540ada10b292a17fa9d71d4ac5bd"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailIllegalAddrGroup.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="973b1cd54386000d5291939c9a445dd2"
+   committed-rev="630"
+   last-author="cora"
+   name="NewDetailIllegalAddrPo.java"
+   text-time="2011-11-22T13:21:23.478000Z"
+   committed-date="2011-11-22T13:21:23.478369Z"/>
+<entry
+   kind="file"
+   checksum="e753ae858998f8f2555f85780192b3fc"
+   committed-rev="630"
+   last-author="cora"
+   name="NewDetailIllegalAddrPoGroup.java"
+   text-time="2011-11-22T13:21:23.478000Z"
+   committed-date="2011-11-22T13:21:23.478369Z"/>
+<entry
+   kind="file"
+   checksum="b54a1cbd6b42e0074e455bc5f4e23df6"
+   committed-rev="902"
+   last-author="cychu"
+   name="NewDetailIllegalAddrQuery.java"
+   text-time="2012-07-09T09:40:52.362000Z"
+   committed-date="2012-07-09T09:40:52.362628Z"/>
+<entry
+   kind="file"
+   checksum="5858cb161ea9b883755e307919028ec0"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailNewAssoIndex.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="de5a988c0e017598d6dc979825ce62f5"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailNewAssoIndexGroup.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="8e246cc0dbdde39c946a3880b0754828"
+   committed-rev="605"
+   last-author="epf"
+   name="NewDetailNewAssoIndexQuery.java"
+   text-time="2011-11-17T02:23:09.355000Z"
+   committed-date="2011-11-17T02:23:09.355771Z"/>
+<entry
+   kind="file"
+   checksum="3dff3047630b631b0f654b125c41acbf"
+   committed-rev="674"
+   last-author="cora"
+   name="NewDetailNotice.java"
+   text-time="2011-11-25T12:52:10.106000Z"
+   committed-date="2011-11-25T12:52:10.106519Z"/>
+<entry
+   kind="file"
+   checksum="1f09e96fff00b7617fb2f7b30b5a025b"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailNoticeGroup.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="cd58780bde10f74d89845a8f12d821e9"
+   committed-rev="605"
+   last-author="epf"
+   name="NewDetailNoticeQuery.java"
+   text-time="2011-11-17T02:23:09.355000Z"
+   committed-date="2011-11-17T02:23:09.355771Z"/>
+<entry
+   kind="file"
+   checksum="50a772dc2ed71e0c9b3cc419850238ed"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailOldAssoIndex.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="635a17a357ae551ed2391795534b9a70"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailOldAssoIndexGroup.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="f9edf2622bfb557022aac31bb337b458"
+   committed-rev="605"
+   last-author="epf"
+   name="NewDetailOldAssoIndexQuery.java"
+   text-time="2011-11-17T02:23:09.355000Z"
+   committed-date="2011-11-17T02:23:09.355771Z"/>
+<entry
+   kind="file"
+   checksum="55755868c7d992376c22c505079600d6"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailPoStatement.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="3211a8bf98b09a01004a230375f65922"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailPoStatementGroup.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="5203aa6dc63fc58387c044b311bb2464"
+   committed-rev="902"
+   last-author="cychu"
+   name="NewDetailPoStatementQuery.java"
+   text-time="2012-07-09T09:40:52.362000Z"
+   committed-date="2012-07-09T09:40:52.362628Z"/>
+<entry
+   kind="file"
+   checksum="494c491c8bcd234fb24910d4753a3bd2"
+   committed-rev="673"
+   last-author="cora"
+   name="NewDetailPosChange.java"
+   text-time="2011-11-24T12:30:05.170000Z"
+   committed-date="2011-11-24T12:30:05.170089Z"/>
+<entry
+   kind="file"
+   checksum="b4121c8fc69de25519122329be7c06c1"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailPosChangeGroup.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="ab256e4e6013e118d8fa5bfebfcbe802"
+   committed-rev="902"
+   last-author="cychu"
+   name="NewDetailPosChangeQuery.java"
+   text-time="2012-07-09T09:40:52.362000Z"
+   committed-date="2012-07-09T09:40:52.362628Z"/>
+<entry
+   kind="file"
+   checksum="15f865bca27ef1aef1a918ba044735ea"
+   committed-rev="673"
+   last-author="cora"
+   name="NewDetailPreferredExam.java"
+   text-time="2011-11-24T12:30:05.170000Z"
+   committed-date="2011-11-24T12:30:05.170089Z"/>
+<entry
+   kind="file"
+   checksum="6758fc61121e607e661e361d51373589"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailPreferredExamGroup.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="bffa36476a0333374638264f101d1058"
+   committed-rev="983"
+   last-author="epf"
+   name="NewDetailPreferredExamQuery.java"
+   text-time="2013-07-18T09:31:41.225000Z"
+   committed-date="2013-08-06T03:36:07.047000Z"/>
+<entry
+   kind="file"
+   checksum="b581ae01206d6c90c93be4349df8172b"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailSignPaper.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="bc362565d9c6ee717a3092689bd52ccf"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailSignPaperGroup.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="59878b085edd74b98d1c5358b0177fa4"
+   committed-rev="902"
+   last-author="cychu"
+   name="NewDetailSignPaperQuery.java"
+   text-time="2012-07-09T09:40:52.362000Z"
+   committed-date="2012-07-09T09:40:52.362628Z"/>
+<entry
+   kind="file"
+   checksum="31515cb49ba4312209e84a96a19e6612"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailUwErrCode.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="8e6e9364b65eb40bf45afdfa7263382c"
+   committed-rev="588"
+   last-author="epf"
+   name="NewDetailUwErrCodeGroup.java"
+   text-time="2011-11-15T09:01:18.577000Z"
+   committed-date="2011-11-15T09:01:18.577219Z"/>
+<entry
+   kind="file"
+   checksum="33c3f24c466c5119078ffd44390f7e92"
+   committed-rev="934"
+   last-author="cora"
+   name="NewDetailUwErrCodeQuery.java"
+   text-time="2012-10-01T08:08:41.178000Z"
+   committed-date="2012-10-01T08:08:41.178264Z"/>
+</wc-entries>

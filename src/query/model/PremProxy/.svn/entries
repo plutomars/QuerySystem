@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/PremProxy"
+   kind="dir"
+   committed-rev="936"
+   last-author="jnd115"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2012-10-03T09:42:38.944453Z"/>
+<entry
+   kind="file"
+   checksum="484c478374c2ce1104c2f430b19f7152"
+   committed-rev="691"
+   last-author="jnd115"
+   name="PremProxy01.java"
+   text-time="2011-11-29T01:27:25.651000Z"
+   committed-date="2011-11-29T01:27:25.651774Z"/>
+<entry
+   kind="file"
+   checksum="200f3cffb5504610c180378ba8a29a74"
+   committed-rev="936"
+   last-author="jnd115"
+   name="PremProxy02.java"
+   text-time="2012-10-03T09:42:38.944000Z"
+   committed-date="2012-10-03T09:42:38.944453Z"/>
+<entry
+   kind="file"
+   checksum="f6dffc38496e1bff64dd0ca75d90051c"
+   committed-rev="691"
+   last-author="jnd115"
+   name="PremProxy02Group.java"
+   text-time="2011-11-29T01:27:25.651000Z"
+   committed-date="2011-11-29T01:27:25.651774Z"/>
+<entry
+   kind="file"
+   checksum="04cdb42f08ed9747ea03046faae29cb1"
+   committed-rev="936"
+   last-author="jnd115"
+   name="PremProxy03.java"
+   text-time="2012-10-03T09:42:38.944000Z"
+   committed-date="2012-10-03T09:42:38.944453Z"/>
+<entry
+   kind="file"
+   checksum="f4b37f8dc8d011ab5136002d20db1505"
+   committed-rev="691"
+   last-author="jnd115"
+   name="PremProxy03Group.java"
+   text-time="2011-11-29T01:27:25.651000Z"
+   committed-date="2011-11-29T01:27:25.651774Z"/>
+<entry
+   kind="file"
+   checksum="1712377a15a4eac104df01083c4bdcf4"
+   committed-rev="936"
+   last-author="jnd115"
+   name="PremProxy04.java"
+   text-time="2012-10-03T09:42:38.944000Z"
+   committed-date="2012-10-03T09:42:38.944453Z"/>
+<entry
+   kind="file"
+   checksum="68708a02554bbff831ca2e7cd6176a91"
+   committed-rev="936"
+   last-author="jnd115"
+   name="PremProxy04Group.java"
+   text-time="2012-10-03T09:42:38.944000Z"
+   committed-date="2012-10-03T09:42:38.944453Z"/>
+<entry
+   kind="file"
+   checksum="d1877675f97ead8f7ad13fa57e5c37f8"
+   committed-rev="936"
+   last-author="jnd115"
+   name="PremProxyQuery.java"
+   text-time="2012-10-03T09:42:38.944000Z"
+   committed-date="2012-10-03T09:42:38.944453Z"/>
+</wc-entries>

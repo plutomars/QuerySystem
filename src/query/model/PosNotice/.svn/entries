@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/PosNotice"
+   kind="dir"
+   committed-rev="390"
+   last-author="cora"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2011-10-21T07:52:29.247976Z"/>
+<entry
+   kind="file"
+   checksum="6cf595ed946d3dab2529de9d3cf415c3"
+   committed-rev="390"
+   last-author="cora"
+   name="PosNotice01.java"
+   text-time="2011-10-21T07:52:29.247000Z"
+   committed-date="2011-10-21T07:52:29.247976Z"/>
+<entry
+   kind="file"
+   checksum="041e1339f57505c66206f4453b93e84b"
+   committed-rev="177"
+   last-author="cychu"
+   name="PosNotice01Group.java"
+   text-time="2011-09-07T07:02:14.572000Z"
+   committed-date="2011-09-07T07:02:14.572524Z"/>
+<entry
+   kind="file"
+   checksum="9767ced5805c810f337a2fa7cb0c906b"
+   committed-rev="332"
+   last-author="cora"
+   name="PosNotice02.java"
+   text-time="2011-10-15T11:02:23.699000Z"
+   committed-date="2011-10-15T11:02:23.699293Z"/>
+<entry
+   kind="file"
+   checksum="90a4fc476c757a03f268e2acfb655f97"
+   committed-rev="177"
+   last-author="cychu"
+   name="PosNotice02Group.java"
+   text-time="2011-09-07T07:02:14.572000Z"
+   committed-date="2011-09-07T07:02:14.572524Z"/>
+<entry
+   kind="file"
+   checksum="f5859f9bda2cebb0d9abb05b6001340f"
+   committed-rev="177"
+   last-author="cychu"
+   name="PosNotice03.java"
+   text-time="2011-09-07T07:02:14.572000Z"
+   committed-date="2011-09-07T07:02:14.572524Z"/>
+<entry
+   kind="file"
+   checksum="012866ce47d67fe2acbd8618345b4b9f"
+   committed-rev="177"
+   last-author="cychu"
+   name="PosNotice03Group.java"
+   text-time="2011-09-07T07:02:14.572000Z"
+   committed-date="2011-09-07T07:02:14.572524Z"/>
+<entry
+   kind="file"
+   checksum="25a74ae1a82355c8974802b005c58920"
+   committed-rev="177"
+   last-author="cychu"
+   name="PosNotice04.java"
+   text-time="2011-09-07T07:02:14.572000Z"
+   committed-date="2011-09-07T07:02:14.572524Z"/>
+<entry
+   kind="file"
+   checksum="0c314a4594880328833a4c8818679a25"
+   committed-rev="177"
+   last-author="cychu"
+   name="PosNotice04Group.java"
+   text-time="2011-09-07T07:02:14.572000Z"
+   committed-date="2011-09-07T07:02:14.572524Z"/>
+<entry
+   kind="file"
+   checksum="e86cab9b950ec753264030932b0ca586"
+   committed-rev="177"
+   last-author="cychu"
+   name="PosNotice05.java"
+   text-time="2011-09-07T07:02:14.572000Z"
+   committed-date="2011-09-07T07:02:14.572524Z"/>
+<entry
+   kind="file"
+   checksum="30af5cc40d0b060f0ddb99d0f2df0677"
+   committed-rev="177"
+   last-author="cychu"
+   name="PosNotice05Group.java"
+   text-time="2011-09-07T07:02:14.572000Z"
+   committed-date="2011-09-07T07:02:14.572524Z"/>
+<entry
+   kind="file"
+   checksum="62863119253d6c916904bcf84ef5c3dd"
+   committed-rev="177"
+   last-author="cychu"
+   name="PosNoticeQuery.java"
+   text-time="2011-09-07T07:02:14.572000Z"
+   committed-date="2011-09-07T07:02:14.572524Z"/>
+</wc-entries>

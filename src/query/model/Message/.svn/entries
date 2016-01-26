@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/Message"
+   kind="dir"
+   committed-rev="542"
+   last-author="fyyang"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2011-11-09T03:39:58.439798Z"/>
+<entry
+   kind="file"
+   checksum="b647f42a223f0de0c9f41a4a0a6c5064"
+   committed-rev="542"
+   last-author="fyyang"
+   name="FileMessage.java"
+   text-time="2011-11-09T03:39:58.439000Z"
+   committed-date="2011-11-09T03:39:58.439798Z"/>
+<entry
+   kind="file"
+   checksum="32de38f92c9d07d2e71ea01e58dece0a"
+   committed-rev="542"
+   last-author="fyyang"
+   name="FileMessageGroup.java"
+   text-time="2011-11-09T03:39:58.439000Z"
+   committed-date="2011-11-09T03:39:58.439798Z"/>
+</wc-entries>

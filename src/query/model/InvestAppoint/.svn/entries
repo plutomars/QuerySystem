@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/InvestAppoint"
+   repos="http://172.16.4.50:8080/svn/project"
+   kind="dir"
+   committed-rev="1048"
+   last-author="epf"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2015-05-18T08:05:57.272907Z"/>
+<entry
+   kind="file"
+   committed-rev="1041"
+   checksum="b27d1bc063654a0270634a6890d784cf"
+   last-author="epf"
+   name="InvestAppointQuery.java"
+   text-time="2015-04-28T06:03:39.640000Z"
+   committed-date="2015-04-30T02:49:24.027000Z"/>
+<entry
+   kind="file"
+   committed-rev="1048"
+   checksum="e92bd2f744c36f2d7284fabe529f6aab"
+   last-author="epf"
+   name="InvestSwitchAppoint01.java"
+   text-time="2015-05-18T07:50:04.843000Z"
+   committed-date="2015-05-18T08:05:57.272000Z"/>
+<entry
+   kind="file"
+   committed-rev="1048"
+   checksum="a03b5291c27d700459d2079d8cd273d6"
+   last-author="epf"
+   name="InvestSwitchAppoint02.java"
+   text-time="2015-05-18T06:01:38.500000Z"
+   committed-date="2015-05-18T08:05:57.272000Z"/>
+<entry
+   kind="file"
+   committed-rev="1042"
+   checksum="8979702674c42ceb153c14af56697fb9"
+   last-author="epf"
+   name="InvestSwitchAppointBuyGroup.java"
+   text-time="2015-04-30T09:20:12.953000Z"
+   committed-date="2015-04-30T09:58:26.597000Z"/>
+<entry
+   kind="file"
+   committed-rev="1042"
+   checksum="9126aa393faffe65ce831bc65e0aec77"
+   last-author="epf"
+   name="InvestSwitchAppointGroup01.java"
+   text-time="2015-04-30T07:34:15.578000Z"
+   committed-date="2015-04-30T09:58:26.597000Z"/>
+<entry
+   kind="file"
+   committed-rev="1042"
+   checksum="3c50c52a047f3d4a99863634f0030629"
+   last-author="epf"
+   name="InvestSwitchAppointGroup02.java"
+   text-time="2015-04-30T05:35:26.765000Z"
+   committed-date="2015-04-30T09:58:26.597000Z"/>
+<entry
+   kind="file"
+   committed-rev="1042"
+   checksum="6c373981e81ab6b21b5970e714f857c7"
+   last-author="epf"
+   name="InvestSwitchAppointSellGroup.java"
+   text-time="2015-04-30T09:20:00.781000Z"
+   committed-date="2015-04-30T09:58:26.597000Z"/>
+<entry
+   kind="file"
+   committed-rev="1041"
+   checksum="d44432c96dbde6afa89013ee62a53b23"
+   last-author="epf"
+   name="InvestSwitchBuyAppoint03.java"
+   text-time="2015-04-30T01:53:26.796000Z"
+   committed-date="2015-04-30T02:49:24.027000Z"/>
+<entry
+   kind="file"
+   committed-rev="1041"
+   checksum="5153d6eee0d4da23ed2731aada26b787"
+   last-author="epf"
+   name="InvestSwitchSellAppoint03.java"
+   text-time="2015-04-30T01:51:24.046000Z"
+   committed-date="2015-04-30T02:49:24.027000Z"/>
+<entry
+   kind="file"
+   committed-rev="1048"
+   checksum="fa4f12a3e927e23ff0de080263ba3b69"
+   last-author="epf"
+   name="InvestWithdrawAppoint01.java"
+   text-time="2015-05-18T07:50:50.828000Z"
+   committed-date="2015-05-18T08:05:57.272000Z"/>
+<entry
+   kind="file"
+   committed-rev="1048"
+   checksum="77a0db8dab90d3c2d0d990c85b2070be"
+   last-author="epf"
+   name="InvestWithdrawAppoint02.java"
+   text-time="2015-05-18T06:02:25.078000Z"
+   committed-date="2015-05-18T08:05:57.272000Z"/>
+<entry
+   kind="file"
+   committed-rev="1041"
+   checksum="7b3caecade4c7ec8dfac2f10780bd2a2"
+   last-author="epf"
+   name="InvestWithdrawAppoint03.java"
+   text-time="2015-04-28T03:52:09.062000Z"
+   committed-date="2015-04-30T02:49:24.027000Z"/>
+<entry
+   kind="file"
+   committed-rev="1042"
+   checksum="ed7b48874e5fd0e87f284c45d85ee721"
+   last-author="epf"
+   name="InvestWithdrawAppointGroup01.java"
+   text-time="2015-04-30T04:01:46.609000Z"
+   committed-date="2015-04-30T09:58:26.597000Z"/>
+<entry
+   kind="file"
+   committed-rev="1042"
+   checksum="efa69f568e651ba36963f83bfa0d0e8e"
+   last-author="epf"
+   name="InvestWithdrawAppointGroup02.java"
+   text-time="2015-04-30T05:36:27.703000Z"
+   committed-date="2015-04-30T09:58:26.597000Z"/>
+<entry
+   kind="file"
+   committed-rev="1042"
+   checksum="97ee2ce7247785f10e8cbe635f946640"
+   last-author="epf"
+   name="InvestWithdrawAppointGroup03.java"
+   text-time="2015-04-30T05:40:00.796000Z"
+   committed-date="2015-04-30T09:58:26.597000Z"/>
+</wc-entries>

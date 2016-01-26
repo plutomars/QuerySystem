@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://172.16.4.50:8080/svn/project"
+   url="http://172.16.4.50:8080/svn/project/branches/QuerySystem(Test)/src/query/model/InvestDeduction"
+   kind="dir"
+   committed-rev="1040"
+   last-author="epf"
+   name=""
+   revision="1078"
+   uuid="bd5fbd75-bbab-7349-a2af-3fb94cc085a1"
+   committed-date="2015-04-16T08:44:59.946750Z"/>
+<entry
+   kind="file"
+   checksum="12acaf13a205a64be44deb0b5dd685c6"
+   committed-rev="1040"
+   last-author="epf"
+   name="InvestDeduction01.java"
+   text-time="2015-03-17T06:01:33.843000Z"
+   committed-date="2015-04-16T08:44:59.946000Z"/>
+<entry
+   kind="file"
+   checksum="8c354172fd4a7cc04b246dabe7fedfcd"
+   committed-rev="877"
+   last-author="swei"
+   name="InvestDeduction01Group.java"
+   text-time="2012-05-02T01:55:57.048000Z"
+   committed-date="2012-05-02T01:55:57.048022Z"/>
+<entry
+   kind="file"
+   checksum="ff3cae1b7725776ecfe919f466143f6a"
+   committed-rev="1040"
+   last-author="epf"
+   name="InvestDeduction01Query.java"
+   text-time="2015-03-17T06:01:38.156000Z"
+   committed-date="2015-04-16T08:44:59.946000Z"/>
+<entry
+   kind="file"
+   checksum="62f3a781cd1637ac9f991c63d033155f"
+   committed-rev="877"
+   last-author="swei"
+   name="InvestDeduction02.java"
+   text-time="2012-05-02T01:55:57.048000Z"
+   committed-date="2012-05-02T01:55:57.048022Z"/>
+<entry
+   kind="file"
+   checksum="9820d7b28b2d374b372521c89399f399"
+   committed-rev="877"
+   last-author="swei"
+   name="InvestDeduction02Group.java"
+   text-time="2012-05-02T01:55:57.048000Z"
+   committed-date="2012-05-02T01:55:57.048022Z"/>
+</wc-entries>
