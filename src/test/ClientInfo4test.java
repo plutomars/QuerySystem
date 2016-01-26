@@ -52,8 +52,7 @@ public class ClientInfo4test {
 		ClientInfoQuery cq = new ClientInfoQuery();
 
 		List<HashMap<String, String>> resultlist = DBConnection
-				.getResultList(DBConnection.executeQuery(st,
-						"select client_id from aaqc where lost_ind = 'Y'"));
+				.getResultList(DBConnection.executeQuery(st, "select client_id from aaqc where lost_ind = 'Y'"));
 		ArrayList<String[]> result = new ArrayList<String[]>();
 		for (HashMap<String, String> hmp : resultlist) {
 			String[] tmp = { hmp.get("client_id") };
@@ -80,13 +79,11 @@ public class ClientInfo4test {
 
 	@Test
 	public void testGetLost_ind() {
-		Statement st = DBConnection.createStatement();
+		// Statement st = DBConnection.createStatement();
 		ClientInfoQuery cq = new ClientInfoQuery();
 
 		assertEquals("Y", cq.getLost_ind(client_id));
-		
 
 	}
-	
 
 }
