@@ -34,7 +34,7 @@ import database.connection.DBConnection;
  * 
  * @version 1.0<br>
  *          100/07/28<br>
- *          ¥D¾÷¥æ©ö¬d¸ß¨t²Î»{ÃÒµøµ¡
+ *          ä¸»æ©Ÿäº¤æ˜“æŸ¥è©¢ç³»çµ±èªè­‰è¦–çª—
  * 
  * @since 1.0
  */
@@ -57,15 +57,15 @@ public class Authentication {
 	private static String argPassword = "";
 	private static String argPolicyNo = "";
 	private static String argClientID = "";
-
+        //test pull
 	/**
 	 * Launch the application
 	 */
 	public static void main(String[] args) {
-		// §ó§ï¦rÅé¤j¤p
+		// æ›´æ”¹å­—é«”å¤§å°
 		Font font = new Font("DEFAULT", Font.PLAIN, 15);
 
-		// ±µ¨ü°Ñ¼Æ¥H¨Ñª½±µ±Ò°Ê¾ã¦X¬d¸ßµ{¦¡
+		// æ¥å—åƒæ•¸ä»¥ä¾›ç›´æ¥å•Ÿå‹•æ•´åˆæŸ¥è©¢ç¨‹å¼
 		if (args.length > 0) {
 			for (int i = 0; i < args.length; i++) {
 				switch (i) {
@@ -100,20 +100,20 @@ public class Authentication {
 
 		}
 		try {
-			// ¥ı¶}±ÒMessageController,·|¨Ï¥ÎPORT 3333,¶¶«K°»´ú¦¹µ{¦¡¬O§_"¤w"¶}±Ò
+			// å…ˆé–‹å•ŸMessageController,æœƒä½¿ç”¨PORT 3333,é †ä¾¿åµæ¸¬æ­¤ç¨‹å¼æ˜¯å¦"å·²"é–‹å•Ÿ
 			// messageController = new MessageController();
-			// ¥Ø«e·s¼WSearchServiceController·|¨Ï¥ÎPORT 3333 ¥Î¦¹¤èªk°»´ú¦¹µ{¦¡¬O§_¶}±Ò
+			// ç›®å‰æ–°å¢SearchServiceControlleræœƒä½¿ç”¨PORT 3333 ç”¨æ­¤æ–¹æ³•åµæ¸¬æ­¤ç¨‹å¼æ˜¯å¦é–‹å•Ÿ
 			serverTcp = new ServerSocket(3333);
 		} catch (IOException e1) {
 			// TODO Auto-generated catch block
 			W32API.HWND hwnd = User32.INSTANCE.FindWindow("SunAwtFrame",
-					"\u4E3B\u6A5F\u4EA4\u6613\u67E5\u8A62\u7CFB\u7D71" + "¡G"
+					"\u4E3B\u6A5F\u4EA4\u6613\u67E5\u8A62\u7CFB\u7D71" + "ï¼š"
 							+ DBConnection.getServerName());
 			if (hwnd != null) {
 				User32.INSTANCE.ShowWindow(hwnd, 9);
 				User32.INSTANCE.SetForegroundWindow(hwnd);
 			}
-			// JOptionPane.showMessageDialog(null, "µ{¦¡¤w¶}±Ò", "µLªk­«ÂĞ°õ¦æ",
+			// JOptionPane.showMessageDialog(null, "ç¨‹å¼å·²é–‹å•Ÿ", "ç„¡æ³•é‡è¦†åŸ·è¡Œ",
 			// JOptionPane.ERROR_MESSAGE);
 			System.exit(0);
 		}
@@ -122,7 +122,7 @@ public class Authentication {
 			public void run() {
 				try {
 					Authentication window = new Authentication();
-					// ­Y¬°±µ¨ü°Ñ¼Æ±Ò°Ê«h¤£»İÅã¥Üµn¤Jµe­±ª½±µµn¤J
+					// è‹¥ç‚ºæ¥å—åƒæ•¸å•Ÿå‹•å‰‡ä¸éœ€é¡¯ç¤ºç™»å…¥ç•«é¢ç›´æ¥ç™»å…¥
 					if (argUser.length() > 0) {
 						window.frame.setVisible(false);
 					} else {
@@ -162,7 +162,7 @@ public class Authentication {
 	 */
 	private void initialize() {
 		frame = new JFrame();
-		frame.setTitle("\u4E3B\u6A5F\u4EA4\u6613\u67E5\u8A62\u7CFB\u7D71" + "¡G"
+		frame.setTitle("\u4E3B\u6A5F\u4EA4\u6613\u67E5\u8A62\u7CFB\u7D71" + "ï¼š"
 				+ DBConnection.getServerName());
 		frame.getContentPane().setLocale(Locale.TRADITIONAL_CHINESE);
 
@@ -212,7 +212,7 @@ public class Authentication {
 		passwordField.addKeyListener(new KeyAdapter() {
 			@Override
 			public void keyPressed(KeyEvent e) {
-				// «öENTER³s½u¦ÜSERVERÅçÃÒ
+				// æŒ‰ENTERé€£ç·šè‡³SERVERé©—è­‰
 				if (e.getKeyCode() == KeyEvent.VK_ENTER) {
 					connectToServer();
 				}
@@ -262,36 +262,36 @@ public class Authentication {
 	}
 
 	/**
-	 * ³s½u¦Ü¸ê®Æ®w
+	 * é€£ç·šè‡³è³‡æ–™åº«
 	 * <p>
-	 * ¨ú±o¨Ï¥ÎªÌ¿é¤J¤§±b¸¹¤Î±K½X«á§Q¥ÎDBConneciton.connect¤èªk³s½u¦Ü¸ê®Æ®w
+	 * å–å¾—ä½¿ç”¨è€…è¼¸å…¥ä¹‹å¸³è™ŸåŠå¯†ç¢¼å¾Œåˆ©ç”¨DBConneciton.connectæ–¹æ³•é€£ç·šè‡³è³‡æ–™åº«
 	 */
 	public void connectToServer() {
 
-		// ¨ú±opassword
+		// å–å¾—password
 		char a[] = passwordField.getPassword();
 		String password = "";
 		for (int i = 0; i < a.length; i++)
 			password += a[i];
 
-		// ¦¨¥\³s½u¦Ü¸ê®Æ®w«h¶}±ÒQueryFrame ¨ÃÃö³¬»{ÃÒµøµ¡
+		// æˆåŠŸé€£ç·šè‡³è³‡æ–™åº«å‰‡é–‹å•ŸQueryFrame ä¸¦é—œé–‰èªè­‰è¦–çª—
 		if (DBConnection.connect(accountField.getText(), password,
 				DBConnection.DBSERVER)) {
 			loginSuccess();
 		} else
 			frame.setTitle("\u4E3B\u6A5F\u4EA4\u6613\u67E5\u8A62\u7CFB\u7D71"
-					+ "¡G" + DBConnection.getServerName());
+					+ "ï¼š" + DBConnection.getServerName());
 		// ------------------------------------------------
 	}
 
 	/**
-	 * ¶}±Ò¥D­n¥æ©ö¬d¸ßµøµ¡¨ÃÃö±¼µn¤Jµøµ¡
+	 * é–‹å•Ÿä¸»è¦äº¤æ˜“æŸ¥è©¢è¦–çª—ä¸¦é—œæ‰ç™»å…¥è¦–çª—
 	 */
 	public void loginSuccess() {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
-					// Ãö±¼¦¹portµ¹SearchServiceController¥Î
+					// é—œæ‰æ­¤portçµ¦SearchServiceControllerç”¨
 					serverTcp.close();
 					QueryFrame frame = new QueryFrame();
 					// frame.setMessageController(messageController);
@@ -310,7 +310,7 @@ public class Authentication {
 					searchHandler = null;
 
 				} catch (NullPointerException e) {
-					JOptionPane.showMessageDialog(null, "¦³nullpointer");
+					JOptionPane.showMessageDialog(null, "æœ‰nullpointer");
 					System.out.println("policyNO/ID is null");
 					e.printStackTrace();
 				} catch (IOException e) {
@@ -320,7 +320,7 @@ public class Authentication {
 				}
 			}
 		});
-		// Ãö³¬µn¤Jµøµ¡
+		// é—œé–‰ç™»å…¥è¦–çª—
 		frame.dispose();
 	}
 
