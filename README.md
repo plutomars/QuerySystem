@@ -1,7 +1,8 @@
-# QuerySystem
+# QuerySystem 
+
 Policy Administration Query System
 
-demo screenshot
+demo screenshot:
 
 https://drive.google.com/open?id=0B3pEUymGEqqVUzJSMVdGa3J3V1U
 
