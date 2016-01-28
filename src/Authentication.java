@@ -61,6 +61,7 @@ public class Authentication {
 	/**
 	 * Launch the application
 	 */
+	//插個不同的字
 	public static void main(String[] args) {
 		// 更改字體大小
 		Font font = new Font("DEFAULT", Font.PLAIN, 15);
