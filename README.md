@@ -6,9 +6,9 @@ demo screenshot:
 
 [登入畫面](https://drive.google.com/open?id=0B3pEUymGEqqVeUh3YS1oTEU4MWM)
 
-[提示訊息](https://drive.google.com/open?id=0B3pEUymGEqqVUzJSMVdGa3J3V1U)
+[提示訊息](https://drive.google.com/open?id=0B3pEUymGEqqVSGFqeVBBZWFNbEk)
 
-[保單明細](https://drive.google.com/open?id=0B3pEUymGEqqVSGFqeVBBZWFNbEk)
+[保單明細](https://drive.google.com/open?id=0B3pEUymGEqqVUzJSMVdGa3J3V1U)
 
 [交易明細](https://drive.google.com/open?id=0B3pEUymGEqqVeUh3YS1oTEU4MWM)
 
