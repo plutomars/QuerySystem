@@ -4,7 +4,7 @@ Policy Administration Query System
 
 demo screenshot:
 
-[登入畫面](https://drive.google.com/open?id=0B3pEUymGEqqVeUh3YS1oTEU4MWM)
+[登入畫面](./img/login.png)
 
 [提示訊息](https://drive.google.com/open?id=0B3pEUymGEqqVSGFqeVBBZWFNbEk)
 
