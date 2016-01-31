@@ -4,24 +4,14 @@ Policy Administration Query System
 
 demo screenshot:
 
-login
+[登入畫面](https://drive.google.com/open?id=0B3pEUymGEqqVeUh3YS1oTEU4MWM)
 
-https://drive.google.com/open?id=0B3pEUymGEqqVeUh3YS1oTEU4MWM
+[提示訊息](https://drive.google.com/open?id=0B3pEUymGEqqVUzJSMVdGa3J3V1U)
 
-content
+[保單明細](https://drive.google.com/open?id=0B3pEUymGEqqVSGFqeVBBZWFNbEk)
 
-https://drive.google.com/open?id=0B3pEUymGEqqVUzJSMVdGa3J3V1U
+[交易明細](https://drive.google.com/open?id=0B3pEUymGEqqVeUh3YS1oTEU4MWM)
 
-https://drive.google.com/open?id=0B3pEUymGEqqVSGFqeVBBZWFNbEk
+[讀取畫面](https://drive.google.com/open?id=0B3pEUymGEqqVSk1XQVRRdjJiSEE)
 
-transaction log
-
-https://drive.google.com/open?id=0B3pEUymGEqqVeUh3YS1oTEU4MWM
-
-loading
-
-https://drive.google.com/open?id=0B3pEUymGEqqVSk1XQVRRdjJiSEE
-
-another detail & treeNode
-
-https://drive.google.com/open?id=0B3pEUymGEqqVQmlGdVJPcF9CdFk
+[其它明細&功能樹狀圖](https://drive.google.com/open?id=0B3pEUymGEqqVQmlGdVJPcF9CdFk)
